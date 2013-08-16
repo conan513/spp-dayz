@@ -1,0 +1,1435 @@
+
+
+=====================================================================
+== C:\Full\ArmA 2\Expansion\beta\arma2oaserver.exe
+== "Expansion\beta\arma2oaserver.exe"  -port=2302 "-config=ServerFiles\dayz_epoch\instance_2_utes\config.cfg" "-cfg=ServerFiles\dayz_epoch\instance_2_utes\basic.cfg" "-profiles=ServerFiles\dayz_epoch\instance_2_utes" -name=instance_2_utes "-mod=@DayZ_Epoch;ServerFiles\dayz_epoch\@DayZ_Epoch_Server;" -noPause -noSound -cpuCount=1 -exThreads=1 -maxMem=2048
+=====================================================================
+Exe timestamp: 2013/08/11 23:30:19
+Current time:  2013/08/14 10:10:53
+
+Version 1.62.107882
+Unsupported language Hungarian in stringtable
+Unsupported language Hungarian in stringtable
+Item STR_ACTIONS_BUILD listed twice
+Unsupported language Hungarian in stringtable
+Item STR_EQUIP_NAME_41 listed twice
+Item STR_EQUIP_DESC_41 listed twice
+Unsupported language Hungarian in stringtable
+Unsupported language Hungarian in stringtable
+Updating base class ->VehicleMagazine, by ca\weapons\config.bin/CfgMagazines/14Rnd_FFAR/
+Updating base class ->PistolCore, by ca\weapons\config.bin/cfgWeapons/Pistol/
+Updating base class ->LauncherCore, by ca\weapons\config.bin/cfgWeapons/RocketPods/
+Updating base class ->RocketPods, by ca\weapons\config.bin/cfgWeapons/FFARLauncher/
+Updating base class ->Default, by ca\weapons\config.bin/cfgWeapons/ItemCore/
+Updating base class ->Citizen, by ca\characters2\config.bin/CfgVehicles/Citizen1/
+Updating base class ->UAZ_Base, by ca\wheeled\config.bin/CfgVehicles/UAZ_Unarmed_Base/
+Updating base class ->Ural_Base_withTurret, by ca\wheeled\config.bin/CfgVehicles/Ural_Base/
+Updating base class ->Car, by ca\wheeled\config.bin/CfgVehicles/SkodaBase/
+Updating base class ->Skodabase, by ca\wheeled\config.bin/CfgVehicles/car_sedan/
+Updating base class ->Car, by ca\wheeled\config.bin/CfgVehicles/hilux1_civil_1_open/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_Fire/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_A_tent/
+Updating base class ->Camp_base, by ca\misc3\config.bin/CfgVehicles/ACamp/
+Updating base class ->Car, by ca\wheeled2\lada\config.bin/CfgVehicles/Lada_base/
+Updating base class ->SUV_Base_EP1, by ca\wheeled_e\suv\config.bin/CfgVehicles/SUV_TK_CIV_EP1/
+Updating base class RscStandardDisplay->, by z\addons\dayz_code\config.cpp/RscDisplayStart/
+Cannot delete class CA_DebriefingInfo, it is referenced somewhere (used as a base class probably).
+Cannot delete class CA_DebriefingInfo, it is referenced somewhere (used as a base class probably).
+Updating base class RscShortcutButton->RscShortcutButtonMain, by z\addons\dayz_code\config.cpp/RscDisplayMain/controls/CA_Exit/
+Updating base class RscText->, by z\addons\dayz_code\config.cpp/RscTitles/Default/
+Updating base class Soldier_Crew_PMC->Soldier_Bodyguard_M4_PMC, by z\addons\dayz_code\config.cpp/CfgVehicles/SurvivorW2_DZ/
+Updating base class ->ViewOptics, by z\addons\dayz_code\config.cpp/CfgVehicles/Mi17_base/Turrets/MainTurret/ViewOptics/
+Updating base class HouseBase->, by z\addons\dayz_code\config.cpp/CfgVehicles/House/
+Updating base class NonStrategic->BuiltItems, by z\addons\dayz_code\config.cpp/CfgVehicles/Fort_RazorWire/
+Updating base class ->Plane, by ca\air2\mv22\config.bin/CfgVehicles/MV22/
+Updating base class ViewOptics->, by ca\air2\uh1y\config.bin/CfgVehicles/UH1_Base/Turrets/MainTurret/ViewOptics/
+Updating base class ->HouseBase, by ca\misc_e\config.bin/CfgVehicles/House/
+Updating base class ->Land_fortified_nest_small, by ca\misc_e\config.bin/CfgVehicles/Land_fortified_nest_small_EP1/
+Updating base class ->Land_CamoNet_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNet_EAST_EP1/
+Updating base class ->Land_CamoNetB_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNetB_EAST_EP1/
+Updating base class ->Sign_1L_Noentry, by ca\misc_e\config.bin/CfgVehicles/Sign_1L_Noentry_EP1/
+Updating base class ->Sign_circle, by ca\misc_e\config.bin/CfgVehicles/Helper_Base_EP1/
+Updating base class ->ReammoBox_EP1, by ca\weapons_baf\config.bin/CfgVehicles/Bag_Base_BAF/
+Updating base class ->m107, by ca\weapons_e\m107\config.bin/CfgWeapons/m107_TWS_EP1/
+Updating base class ->V3S_Base_EP1, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Refuel_TK_GUE_EP1/
+Updating base class ->Helicopter, by ca\air_e\ah6j\config.bin/CfgVehicles/AH6_Base_EP1/
+Updating base class ->Plane, by ca\air_e\an2\config.bin/CfgVehicles/An2_Base_EP1/
+Updating base class ->CH47_base_EP1, by ca\air_e\ch47\config.bin/CfgVehicles/CH_47F_EP1/
+Updating base class ViewOptics->, by ca\air_e\uh1h\config.bin/CfgVehicles/UH1H_base/Turrets/MainTurret/ViewOptics/
+Updating base class ->UH60M_US_base_EP1, by ca\air_e\uh60m\config.bin/CfgVehicles/UH60M_EP1/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Crew_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_TL_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Sniper_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_M4_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_AA12_PMC/
+Updating base class ->BAF_Soldier_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_W/
+Updating base class ->BAF_Soldier_L_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_L_W/
+Updating base class ->BAF_Soldier_Officer_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_Officer_W/
+Updating base class ->BAF_Soldier_SniperH_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_SniperH_W/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_UN_EP1/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_TK_EP1/
+Obsolete class Animations defined in bin\config.bin/RscCompass/
+Obsolete class Animations defined in bin\config.bin/RscWatch/
+10:12:35 Unsupported language Hungarian in stringtable
+10:12:37 Server error: Player without identity Conan (id 1020211403)
+10:13:46 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 0)! MoveName: amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon
+10:13:46 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 1)! MoveName: amovpercmrunsnonwbindf_rfl
+10:13:53 Error in expression <;
+_recompile = (count _this) > 0;
+
+
+if (BIS_fnc_init && !_recompile) exitwith {t>
+10:13:53   Error position: <BIS_fnc_init && !_recompile) exitwith {t>
+10:13:53   Error Ismeretlen változó a kifejezésben: bis_fnc_init
+10:13:53 File ca\Modules\Functions\init.sqf, line 28
+
+
+=====================================================================
+== C:\Full\ArmA 2\Expansion\beta\arma2oaserver.exe
+== "Expansion\beta\arma2oaserver.exe"  -port=2302 "-config=ServerFiles\dayz_epoch\instance_2_utes\config.cfg" "-cfg=ServerFiles\dayz_epoch\instance_2_utes\basic.cfg" "-profiles=ServerFiles\dayz_epoch\instance_2_utes" -name=instance_2_utes "-mod=@DayZ_Epoch;ServerFiles\dayz_epoch\@DayZ_Epoch_Server;" -noPause -noSound -cpuCount=1 -exThreads=1 -maxMem=2048
+=====================================================================
+Exe timestamp: 2013/08/11 23:30:19
+Current time:  2013/08/14 10:16:52
+
+Version 1.62.107882
+Unsupported language Hungarian in stringtable
+Unsupported language Hungarian in stringtable
+Item STR_ACTIONS_BUILD listed twice
+Unsupported language Hungarian in stringtable
+Item STR_EQUIP_NAME_41 listed twice
+Item STR_EQUIP_DESC_41 listed twice
+Unsupported language Hungarian in stringtable
+Unsupported language Hungarian in stringtable
+Updating base class ->VehicleMagazine, by ca\weapons\config.bin/CfgMagazines/14Rnd_FFAR/
+Updating base class ->PistolCore, by ca\weapons\config.bin/cfgWeapons/Pistol/
+Updating base class ->LauncherCore, by ca\weapons\config.bin/cfgWeapons/RocketPods/
+Updating base class ->RocketPods, by ca\weapons\config.bin/cfgWeapons/FFARLauncher/
+Updating base class ->Default, by ca\weapons\config.bin/cfgWeapons/ItemCore/
+Updating base class ->Citizen, by ca\characters2\config.bin/CfgVehicles/Citizen1/
+Updating base class ->UAZ_Base, by ca\wheeled\config.bin/CfgVehicles/UAZ_Unarmed_Base/
+Updating base class ->Ural_Base_withTurret, by ca\wheeled\config.bin/CfgVehicles/Ural_Base/
+Updating base class ->Car, by ca\wheeled\config.bin/CfgVehicles/SkodaBase/
+Updating base class ->Skodabase, by ca\wheeled\config.bin/CfgVehicles/car_sedan/
+Updating base class ->Car, by ca\wheeled\config.bin/CfgVehicles/hilux1_civil_1_open/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_Fire/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_A_tent/
+Updating base class ->Camp_base, by ca\misc3\config.bin/CfgVehicles/ACamp/
+Updating base class ->Car, by ca\wheeled2\lada\config.bin/CfgVehicles/Lada_base/
+Updating base class ->SUV_Base_EP1, by ca\wheeled_e\suv\config.bin/CfgVehicles/SUV_TK_CIV_EP1/
+Updating base class RscStandardDisplay->, by z\addons\dayz_code\config.cpp/RscDisplayStart/
+Cannot delete class CA_DebriefingInfo, it is referenced somewhere (used as a base class probably).
+Cannot delete class CA_DebriefingInfo, it is referenced somewhere (used as a base class probably).
+Updating base class RscShortcutButton->RscShortcutButtonMain, by z\addons\dayz_code\config.cpp/RscDisplayMain/controls/CA_Exit/
+Updating base class RscText->, by z\addons\dayz_code\config.cpp/RscTitles/Default/
+Updating base class Soldier_Crew_PMC->Soldier_Bodyguard_M4_PMC, by z\addons\dayz_code\config.cpp/CfgVehicles/SurvivorW2_DZ/
+Updating base class ->ViewOptics, by z\addons\dayz_code\config.cpp/CfgVehicles/Mi17_base/Turrets/MainTurret/ViewOptics/
+Updating base class HouseBase->, by z\addons\dayz_code\config.cpp/CfgVehicles/House/
+Updating base class NonStrategic->BuiltItems, by z\addons\dayz_code\config.cpp/CfgVehicles/Fort_RazorWire/
+Updating base class ->Plane, by ca\air2\mv22\config.bin/CfgVehicles/MV22/
+Updating base class ViewOptics->, by ca\air2\uh1y\config.bin/CfgVehicles/UH1_Base/Turrets/MainTurret/ViewOptics/
+Updating base class ->HouseBase, by ca\misc_e\config.bin/CfgVehicles/House/
+Updating base class ->Land_fortified_nest_small, by ca\misc_e\config.bin/CfgVehicles/Land_fortified_nest_small_EP1/
+Updating base class ->Land_CamoNet_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNet_EAST_EP1/
+Updating base class ->Land_CamoNetB_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNetB_EAST_EP1/
+Updating base class ->Sign_1L_Noentry, by ca\misc_e\config.bin/CfgVehicles/Sign_1L_Noentry_EP1/
+Updating base class ->Sign_circle, by ca\misc_e\config.bin/CfgVehicles/Helper_Base_EP1/
+Updating base class ->ReammoBox_EP1, by ca\weapons_baf\config.bin/CfgVehicles/Bag_Base_BAF/
+Updating base class ->m107, by ca\weapons_e\m107\config.bin/CfgWeapons/m107_TWS_EP1/
+Updating base class ->V3S_Base_EP1, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Refuel_TK_GUE_EP1/
+Updating base class ->Helicopter, by ca\air_e\ah6j\config.bin/CfgVehicles/AH6_Base_EP1/
+Updating base class ->Plane, by ca\air_e\an2\config.bin/CfgVehicles/An2_Base_EP1/
+Updating base class ->CH47_base_EP1, by ca\air_e\ch47\config.bin/CfgVehicles/CH_47F_EP1/
+Updating base class ViewOptics->, by ca\air_e\uh1h\config.bin/CfgVehicles/UH1H_base/Turrets/MainTurret/ViewOptics/
+Updating base class ->UH60M_US_base_EP1, by ca\air_e\uh60m\config.bin/CfgVehicles/UH60M_EP1/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Crew_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_TL_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Sniper_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_M4_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_AA12_PMC/
+Updating base class ->BAF_Soldier_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_W/
+Updating base class ->BAF_Soldier_L_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_L_W/
+Updating base class ->BAF_Soldier_Officer_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_Officer_W/
+Updating base class ->BAF_Soldier_SniperH_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_SniperH_W/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_UN_EP1/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_TK_EP1/
+Obsolete class Animations defined in bin\config.bin/RscCompass/
+Obsolete class Animations defined in bin\config.bin/RscWatch/
+10:17:43 Unsupported language Hungarian in stringtable
+10:17:44 Server error: Player without identity Conan (id 1328193922)
+10:18:06 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 1)! MoveName: amovpercmrunsnonwbindf_rfl
+10:18:09 Error in expression <;
+_recompile = (count _this) > 0;
+
+
+if (BIS_fnc_init && !_recompile) exitwith {t>
+10:18:09   Error position: <BIS_fnc_init && !_recompile) exitwith {t>
+10:18:09   Error Ismeretlen változó a kifejezésben: bis_fnc_init
+10:18:09 File ca\Modules\Functions\init.sqf, line 28
+10:18:11 "\z\addons\dayz_code\system\REsec.sqf:Monitoring Remote Exe..."
+10:18:12 "HIVE: Starting"
+10:18:47 "HIVE: Local Time set to [2012,6,6,13,18]"
+10:18:47 "HIVE: trying to get objects"
+10:18:47 Client: Remote object 2:14 not found
+10:18:47 "HIVE: found 0 objects"
+10:18:47 "HIVE: Commence Object Streaming..."
+10:18:47 "HIVE: got 0 objects"
+10:18:47 "HIVE: Spawning # of Vehicles: 100"
+10:18:47 "HIVE: Spawning # of Debris: 150"
+10:18:47 "Initializing DZAI version 1.4.5"
+10:18:47 "[DZAI] Reading DZAI variables."
+10:18:47 "[DZAI] DZAI Variables loaded."
+10:18:47 "[DZAI] Compiling DZAI functions."
+10:18:47 "[DZAI] Base classname tables loaded."
+10:18:47 "[DZAI] Server is running map utes. Loading static trigger and classname configs."
+10:18:47 "Utes classnames loaded."
+10:18:47 "[DZAI] AI to zombie hostility is enabled."
+10:18:47 "[DZAI] Zombie hostility to AI is disabled."
+10:18:47 "[DZAI] DZAI loaded with settings: Debug Level: 0. DebugMarkers: 0. ModName: epoch. DZAI_dynamicWeaponList: true. VerifyTables: true."
+10:18:47 "[DZAI] DZAI loading completed in 0.026001 seconds."
+10:18:47 "DEBUG: Spawning a crashed SKODAWreck with DynamicDebris at [3794.23,4044.56]"
+10:18:47 "DEBUG FPS  : 0.44373"
+10:18:47 "STARTING LOGIN: ["5583113",138d8080# 17475: proxy_man.p3d]"
+10:18:47 WARNING: Function 'name' - 138d8080# 17475: proxy_man.p3d has no unit
+10:18:47  - network id 2:0
+10:18:47  - person George Smith
+10:18:47  - dead
+10:18:47 "LOGIN ATTEMPT: "5583113" Error: No unit"
+10:18:47 "LOGIN RESULT: Exiting, player object null: 138d8080# 17475: proxy_man.p3d"
+10:18:48 "DEBUG: Spawning a crashed Fort_Barricade_EP1 with DynamicDebris at [3458.57,3615.7]"
+10:18:48 "PUBLISH: Attempt 15102080# 17548: c130j.p3d"
+10:18:48 "HIVE: WRITE: "CHILD:308:2:C130J_US_EP1:0:0:[143,[3451.22,3581.58,0.184988]]:[]:[["telo",0.206809]]:0.659974:34512358162143:""
+10:18:48 "DEBUG: Spawning a crashed SKODAWreck with DynamicDebris at [3812.39,4038.73]"
+10:18:48 Array tex in bin\config.bin/CfgVehicles/VIL_citrone_civil/Damage/ not even
+10:18:48 class HitPoints::HitLF2Wheel not found in VIL_citrone_civil3
+10:18:48 "PUBLISH: Attempt 150a3040# 17551: vil_cytryna.p3d"
+10:18:48 "HIVE: WRITE: "CHILD:308:2:VIL_citrone_civil3:0:0:[127,[3553.74,3589.4,0]]:[]:[["sklo_p",0.489538],["sklo_p1",0.638096],["sklo_p2",0.49858],["sklo_p3",0.399321],["sklo_l1",0.759603],["sklo_l2",0.57821],["sklo_l3",0.216231],["sklo_z",0.109387],["levy predni tlumic",0.731293],["levy zadni tlumic",0.179991],["pravy predni tlumic",0.980121],["pravy zadni tlumic",0.342588],["motor",0.869195],["sklo predni P",0.28296],["sklo predni L",0.914487],["karoserie",0.209318],["palivo",0.0587272],["",0.72599],["",0.12366],["",0.185467],["",0.35699]]:0.252944:35537358940127:""
+10:18:48 "DEBUG: Spawning a crashed UralWreck with DynamicDebrisMilitary at [4412.46,3230.81]"
+10:18:48 "DEBUG: spawed loot inside vehicle "Skin_Drake_Light_DZ""
+10:18:48 "DEBUG: spawed loot inside vehicle "ItemSodaPepsi""
+10:18:48 "DEBUG: spawed loot inside vehicle "8Rnd_9x18_Makarov""
+10:18:48 "PUBLISH: Attempt 15027040# 17552: lada.p3d"
+10:18:48 "HIVE: WRITE: "CHILD:308:2:Lada2:0:0:[46,[3571,4284.79,0.00746155]]:[]:[["motor",0.58941],["sklo predni P",0.851119],["sklo predni L",0.587412],["karoserie",0.633094],["palivo",0.446983],["wheel_1_1_steering",0.177664],["wheel_2_1_steering",0.0516229],["wheel_1_4_steering",0.412295],["wheel_2_4_steering",0.388607],["wheel_1_3_steering",0.558547],["wheel_2_3_steering",0.486803],["wheel_1_2_steering",0.176347],["wheel_2_2_steering",0.869834],["glass1",0.897082],["glass2",0.292911],["glass3",0.216347],["glass4",0.310928]]:0.66057:3571042848046:""
+10:18:49 "DEBUG: Spawning a crashed Land_Misc_Garb_Heap_EP1 with DynamicDebris at [3164.43,3999.98]"
+10:18:49 "DEBUG: spawed loot inside vehicle "5x_22_LR_17_HMR""
+10:18:49 "DEBUG: spawed loot inside vehicle "ItemBandage""
+10:18:49 "DEBUG: spawed loot inside vehicle "ItemSodaCoke""
+10:18:49 "PUBLISH: Attempt 15026080# 17554: csj_gyroc.p3d"
+10:18:49 "HIVE: WRITE: "CHILD:308:2:CSJ_GyroC:0:0:[57,[3766.64,3543.02,-0.000577927]]:[]:[["NEtrup",0.0908139],["motor",0.141878],["elektronika",0.448966],["mala vrtule",0.671076],["velka vrtule",0.211244],["munice",0.719871],["sklo predni P",0.337225],["sklo predni L",0.709627],["glass1",0.379753],["glass2",0.933335],["glass3",0.154388],["glass4",0.503641],["glass5",0.732303],["glass6",0.323179]]:0.317924:3766635430057:""
+10:18:49 Array tex in bin\config.bin/CfgVehicles/VIL_smart_civil/Damage/ not even
+10:18:49 class HitPoints::HitLF2Wheel not found in VIL_smart_civil2
+10:18:49 "DEBUG: Spawning a crashed hiluxWreck with DynamicDebris at [4156.77,3197.35]"
+10:18:49 "PUBLISH: Attempt 14fb6080# 17556: vil_smart_civ.p3d"
+10:18:49 "HIVE: WRITE: "CHILD:308:2:VIL_smart_civil2:0:0:[104,[4065.63,3157.06,0.0172691]]:[]:[["sklo_p",0.93615],["sklo_p1",0.556338],["sklo_p2",0.0342371],["sklo_p3",0.584742],["sklo_l1",0.47012],["sklo_l2",0.862802],["sklo_l3",0.900794],["sklo_z",0.975877],["levy predni tlumic",0.664316],["levy zadni tlumic",0.758048],["pravy predni tlumic",0.994798],["pravy zadni tlumic",0.197006],["motor",0.961855],["sklo predni P",0.257856],["sklo predni L",0.462395],["karoserie",0.489845],["palivo",0.0672295],["",0.0124596],["",0.358995],["",0.38162],["",0.966204]]:0.787869:40656315710104:""
+10:18:49 "DEBUG: Spawning a crashed datsun02Wreck with DynamicDebris at [2583.59,3884.92]"
+10:18:49 "DEBUG: Too many vehicles at [3553.74,3589.4]"
+10:18:49 "DEBUG: Spawning a crashed hiluxWreck with DynamicDebris at [4065.59,3133.48]"
+10:18:49 "DEBUG: Too many vehicles at [3553.74,3589.4]"
+10:18:50 "DEBUG: Spawning a crashed Fort_Barricade_EP1 with DynamicDebris at [3060.31,4222.62]"
+10:18:50 "PUBLISH: Attempt 14f20100# 17560: mtvr_fuel.p3d"
+10:18:50 "HIVE: WRITE: "CHILD:308:2:MtvrRefuel_DES_EP1_DZ:0:0:[111,[3532.45,3731.62,0.014822]]:[]:[["wheel_1_1_steering",0.466628],["wheel_1_2_steering",0.231914],["wheel_1_3_steering",0.709155],["wheel_2_1_steering",0.382036],["wheel_2_2_steering",0.371768],["wheel_2_3_steering",0.945327],["palivo",0.0379946],["wheel_1_4_steering",0.512392],["wheel_2_4_steering",0.75541],["motor",0.214495],["sklo predni P",0.934273],["sklo predni L",0.0592165],["karoserie",0.873809],["glass1",0.696136],["glass2",0.864156],["glass3",0.569328],["glass4",0.278746]]:0.294304:35325373160111:""
+10:18:50 "DEBUG: Spawning a crashed hiluxWreck with DynamicDebris at [3876.62,4188.29]"
+10:18:50 "DEBUG: spawed loot inside vehicle "ItemBandage""
+10:18:50 "DEBUG: spawed loot inside vehicle "TrashJackDaniels""
+10:18:50 "PUBLISH: Attempt 14eaf040# 17562: gaz39371_vodnik.p3d"
+10:18:50 "HIVE: WRITE: "CHILD:308:2:GAZ_Vodnik:0:0:[170,[3913.97,3308.44,0.0871582]]:[]:[["wheel_1_1_steering",0.154992],["wheel_1_2_steering",0.510737],["wheel_2_1_steering",0.722875],["wheel_2_2_steering",0.0787703],["palivo",0.0787427],["glass1",0.99067],["glass2",0.992821],["glass3",0.880885],["glass4",0.318762],["motor",0.370995],["sklo predni P",0.306321],["sklo predni L",0.231826],["karoserie",0.00104554],["wheel_1_4_steering",0.357316],["wheel_2_4_steering",0.888918],["wheel_1_3_steering",0.89263],["wheel_2_3_steering",0.74667]]:0.357135:39140330841170:""
+10:18:50 "DEBUG: Spawning a crashed hiluxWreck with DynamicDebris at [3639.52,4311.87]"
+10:18:50 "DEBUG: Too many vehicles at [3553.74,3589.4]"
+10:18:50 Array tex in bin\config.bin/CfgVehicles/VIL_octavia_civil/Damage/ not even
+10:18:50 VIL_octavia_civil: syrena - unknown animation source syrena
+10:18:50 VIL_octavia_civil: syrena2 - unknown animation source syrena2
+10:18:50 VIL_octavia_civil: syrena3 - unknown animation source syrena3
+10:18:50 VIL_octavia_civil: kogut_znika - unknown animation source kogut_znika
+10:18:50 VIL_octavia_civil: convoy_znika - unknown animation source convoy_znika
+10:18:50 class HitPoints::HitLF2Wheel not found in VIL_octavia_civil
+10:18:50 "DEBUG: Spawning a crashed datsun02Wreck with DynamicDebris at [3587.15,3795.13]"
+10:18:50 "PUBLISH: Attempt 14e750c0# 17565: yac_octavia_civ.p3d"
+10:18:50 "HIVE: WRITE: "CHILD:308:2:VIL_octavia_civil:0:0:[71,[3196.61,4055.97,0.00709534]]:[]:[["sklo_p",0.68219],["sklo_p1",0.0643575],["sklo_p2",0.0667409],["sklo_p3",0.435769],["sklo_l1",0.30257],["sklo_l2",0.949881],["sklo_l3",0.139123],["sklo_z",0.681237],["levy predni tlumic",0.704489],["levy zadni tlumic",0.0235379],["pravy predni tlumic",0.925974],["pravy zadni tlumic",0.0576185],["motor",0.907185],["sklo predni P",0.819909],["sklo predni L",0.285806],["karoserie",0.730898],["palivo",0.984881],["",0.808354],["",0.58103],["",0.63967],["",0.620372]]:0.796691:3196640560071:""
+10:18:50 "DEBUG: Too many at [3553.74,3589.4]"
+10:18:51 "DEBUG: Spawning a crashed hiluxWreck with DynamicDebris at [3124.03,4292.76]"
+10:18:51 "DEBUG: Too many vehicles at [3553.74,3589.4]"
+10:18:51 "DEBUG: Spawning a crashed Fort_Barricade_EP1 with DynamicDebris at [3558.36,3850.77]"
+10:18:51 "PUBLISH: Attempt 14e390c0# 17568: m997a2_ambulance.p3d"
+10:18:51 "HIVE: WRITE: "CHILD:308:2:HMMWV_Ambulance_CZ_DES_EP1:0:0:[112,[4453.02,3512.83,0.325899]]:[]:[["glass1",0.28999],["glass2",0.468205],["glass3",0.956779],["glass4",0.127685],["wheel_1_1_steering",0.900794],["wheel_1_2_steering",0.921586],["wheel_2_1_steering",0.46198],["wheel_2_2_steering",0.3905],["fueltank",0.638101],["engine",0.386731],["sklo predni P",0.726991],["sklo predni L",0.105357],["karoserie",0.48001],["wheel_1_4_steering",0.476714],["wheel_2_4_steering",0.478367],["wheel_1_3_steering",0.117319],["wheel_2_3_steering",0.332654]]:0.901492:44530351283112:""
+10:18:51 Array tex in bin\config.bin/CfgVehicles/VIL_citrone_civil/Damage/ not even
+10:18:51 class HitPoints::HitLF2Wheel not found in VIL_citrone_civil2
+10:18:51 "DEBUG: spawed loot inside vehicle "Skin_BanditW1_DZ""
+10:18:51 "PUBLISH: Attempt 14d6b040# 17570: vil_cytryna.p3d"
+10:18:51 "HIVE: WRITE: "CHILD:308:2:VIL_citrone_civil2:0:0:[163,[3145.16,4034.26,0]]:[]:[["sklo_p",0.259625],["sklo_p1",0.849786],["sklo_p2",0.749371],["sklo_p3",0.690356],["sklo_l1",0.352674],["sklo_l2",0.677897],["sklo_l3",0.223189],["sklo_z",0.989403],["levy predni tlumic",0.594005],["levy zadni tlumic",0.1017],["pravy predni tlumic",0.715958],["pravy zadni tlumic",0.945296],["motor",0.215239],["sklo predni P",0.962986],["sklo predni L",0.209875],["karoserie",0.214568],["palivo",0.218043],["",0.245203],["",0.693936],["",0.93299],["",0.313943]]:0.826261:31452403430163:""
+10:18:51 "DEBUG: Spawning a crashed UAZWreck with DynamicDebrisMilitary at [3598.56,3736.66]"
+10:18:51 "DEBUG: spawed loot inside vehicle "8Rnd_B_Beneli_Pellets""
+10:18:51 "DEBUG: spawed loot inside vehicle "ItemTrashRazor""
+10:18:51 "PUBLISH: Attempt 14d590c0# 17571: mmt.p3d"
+10:18:51 "HIVE: WRITE: "CHILD:308:2:MMT_Civ:0:0:[54,[3292.46,4371.9,-0.0108948]]:[]:[]:0:3292543719154:""
+10:18:51 class HitPoints::HitLF2Wheel not found in VIL_passat_civil1
+10:18:51 "DEBUG: Spawning a crashed UralWreck with DynamicDebrisMilitary at [3647.91,4307.54]"
+10:18:51 "DEBUG: Spawning a crashed datsun01Wreck with DynamicDebris at [3268.43,4420.77]"
+10:18:51 "DEBUG: spawed loot inside vehicle "WoodenArrow""
+10:18:51 "DEBUG: spawed loot inside vehicle "Skin_CZ_Special_Forces_GL_DES_EP1_DZ""
+10:18:51 "DEBUG: spawed loot inside vehicle "Skin_Functionary1_EP1_DZ""
+10:18:51 "PUBLISH: Attempt 14d58100# 17573: vil_passat_civ.p3d"
+10:18:51 "HIVE: WRITE: "CHILD:308:2:VIL_passat_civil1:0:0:[94,[3251.64,4066.26,0.00482941]]:[]:[["sklo_p",0.952024],["sklo_p1",0.924728],["sklo_p2",0.589036],["sklo_p3",0.304215],["sklo_l1",0.86927],["sklo_l2",0.84767],["sklo_l3",0.733844],["sklo_z",0.0657587],["levy predni tlumic",0.638489],["levy zadni tlumic",0.679466],["pravy predni tlumic",0.638553],["pravy zadni tlumic",0.723301],["motor",0.968601],["sklo predni P",0.70035],["sklo predni L",0.601724],["karoserie",0.290896],["palivo",0.599829],["",0.669032],["",0.314243],["",0.518829],["",0.54088]]:0.738104:3251640663094:""
+10:18:52 "DEBUG: Too many at [3553.74,3589.4]"
+10:18:52 class HitPoints::HitLF2Wheel not found in VIL_hilux1_civi3
+10:18:52 "DEBUG: Spawning a crashed Rubbish2 with DynamicDebris at [3871.33,3610.86]"
+10:18:52 "DEBUG: spawed loot inside vehicle "ItemSodaCoke""
+10:18:52 "DEBUG: spawed loot inside vehicle "Skin_Graves_Light_DZ""
+10:18:52 "PUBLISH: Attempt 14ce90c0# 17576: vil_hilux_civ_o.p3d"
+10:18:52 "HIVE: WRITE: "CHILD:308:2:VIL_hilux1_civi3:0:0:[31,[4454.49,3328.22,0.0113297]]:[]:[["sklo_p",0.933702],["sklo_p1",0.121577],["sklo_p2",0.196278],["sklo_p3",0.191711],["sklo_l1",0.336589],["sklo_l2",0.814234],["sklo_l3",0.498031],["sklo_z",0.342364],["levy predni tlumic",0.366796],["levy zadni tlumic",0.957688],["pravy predni tlumic",0.599241],["pravy zadni tlumic",0.364201],["motor",0.607252],["sklo predni P",0.0826674],["sklo predni L",0.793162],["karoserie",0.449524],["palivo",0.222268],["",0.141405],["",0.851828],["",0.309976],["",0.175679]]:0.0973563:4454533282031:""
+10:18:52 Array tex in bin\config.bin/CfgVehicles/VIL_smart_civil/Damage/ not even
+10:18:52 class HitPoints::HitLF2Wheel not found in VIL_smart_civil
+10:18:52 "PUBLISH: Attempt 14cee080# 17578: vil_smart_civ.p3d"
+10:18:52 "HIVE: WRITE: "CHILD:308:2:VIL_smart_civil:0:0:[83,[3126.92,3986.15,0.000278473]]:[]:[["sklo_p",0.165535],["sklo_p1",0.632087],["sklo_p2",0.666754],["sklo_p3",0.716743],["sklo_l1",0.924095],["sklo_l2",0.87962],["sklo_l3",0.946021],["sklo_z",0.301457],["levy predni tlumic",0.499596],["levy zadni tlumic",0.34454],["pravy predni tlumic",0.903823],["pravy zadni tlumic",0.0684817],["motor",0.719697],["sklo predni P",0.7517],["sklo predni L",0.0154106],["karoserie",0.996484],["palivo",0.320741],["",0.470144],["",0.117054],["",0.168706],["",0.61365]]:0.657999:3126939862083:""
+10:18:53 "DEBUG: Spawning a crashed datsun01Wreck with DynamicDebris at [3131.48,3983.4]"
+10:18:53 "DEBUG: spawed loot inside vehicle "WoodenArrow""
+10:18:53 "DEBUG: spawed loot inside vehicle "ItemSodaEmpty""
+10:18:53 "PUBLISH: Attempt 14c710c0# 17579: uh60m.p3d"
+10:18:53 "HIVE: WRITE: "CHILD:308:2:UH60M_EP1_DZ:0:0:[24,[4012.47,3635.06,0.000398636]]:[]:[["glass1",0.495748],["glass2",0.534015],["glass3",0.814295],["glass4",0.629035],["glass5",0.887489],["NEtrup",0.874066],["motor",0.0921762],["elektronika",0.0291285],["mala vrtule",0.395161],["velka vrtule",0.459476],["munice",0.813831],["sklo predni P",0.674181],["sklo predni L",0.100511],["glass6",0.578797]]:0.0272498:4012536351024:""
+10:18:53 class HitPoints::HitBody not found in VIL_ducato_bus
+10:18:53 class HitPoints::HitLF2Wheel not found in VIL_ducato_bus
+10:18:53 "DEBUG: Too many at [3553.74,3589.4]"
+10:18:53 "PUBLISH: Attempt 14bec100# 17581: vil_fiat_bus.p3d"
+10:18:53 "HIVE: WRITE: "CHILD:308:2:VIL_ducato_bus:0:0:[39,[3284.44,4456.29,0.0635738]]:[]:[["sklo_p",0.363555],["sklo_p1",0.949101],["sklo_p2",0.0496408],["sklo_p3",0.22454],["sklo_l1",0.715007],["sklo_l2",0.915353],["sklo_l3",0.454591],["sklo_z",0.685886],["levy predni tlumic",0.332351],["levy zadni tlumic",0.111476],["pravy predni tlumic",0.906614],["pravy zadni tlumic",0.450386],["palivo",0.935801],["sklo predni P",0.0938163],["sklo predni L",0.696921],["motor",0.447642],["",0.190998],["",0.75541],["",0.898268],["",0.737342]]:0.556544:3284444563139:""
+10:18:53 "DEBUG: Spawning a crashed SKODAWreck with DynamicDebris at [4087.42,3298.1]"
+10:18:53 "DEBUG: spawed loot inside vehicle "30Rnd_556x45_Stanag""
+10:18:53 "DEBUG: spawed loot inside vehicle "30Rnd_762x39_AK47""
+10:18:53 "DEBUG: spawed loot inside vehicle "FoodCanUnlabeled""
+10:18:53 "PUBLISH: Attempt 14b6d0c0# 17582: mi_8amt.p3d"
+10:18:53 "HIVE: WRITE: "CHILD:308:2:Mi17_Civilian_DZ:0:0:[34,[2563.07,4551.98,0.532294]]:[]:[["glass1",0.997376],["glass2",0.108317],["glass3",0.464853],["glass4",0.796433],["glass5",0.91268],["glass6",0.682034],["NEtrup",0.251984],["motor",0.946398],["elektronika",0.336982],["mala vrtule",0.0387636],["velka vrtule",0.437896],["munice",0.827235],["sklo predni P",0.472866],["sklo predni L",0.246608]]:0.857021:2563145520534:""
+10:18:53 "DEBUG: Too many at [3553.74,3589.4]"
+10:18:53 "DEBUG: Too many vehicles at [3553.74,3589.4]"
+10:18:54 "DEBUG: Too many at [3553.74,3589.4]"
+10:18:54 "DEBUG: Spawning a crashed Fort_Barricade_EP1 with DynamicDebris at [3345.02,3591.89]"
+10:18:54 "PUBLISH: Attempt 14b150c0# 17584: gnt_c185.p3d"
+10:18:54 "HIVE: WRITE: "CHILD:308:2:GNT_C185U:0:0:[2,[3556.75,3180.94,0.203579]]:[]:[["telo",0.507472]]:0.938458:355683180922:""
+10:18:54 "DEBUG: Too many at [3553.74,3589.4]"
+10:18:54 "DEBUG: Spawning a crashed Rubbish2 with DynamicDebris at [3450.03,4407.07]"
+10:18:54 "DEBUG: Too many vehicles at [3553.74,3589.4]"
+10:18:55 "DEBUG: Spawning a crashed Land_Misc_Garb_Heap_EP1 with DynamicDebris at [3804.48,4258.19]"
+10:18:55 "DEBUG: spawed loot inside vehicle "Skin_FR_OHara_DZ""
+10:18:55 "PUBLISH: Attempt 14aaa080# 17587: atv.p3d"
+10:18:55 "HIVE: WRITE: "CHILD:308:2:ATV_CZ_EP1:0:0:[17,[3626.02,4333.54,0.0286884]]:[]:[["motor",0.394244],["palivo",0.829401],["wheel_1_1_steering",0.100291],["wheel_1_2_steering",0.444739],["wheel_2_1_steering",0.922806],["wheel_2_2_steering",0.903931],["sklo predni P",0.0596221],["sklo predni L",0.747325],["karoserie",0.0156715],["wheel_1_4_steering",0.932542],["wheel_2_4_steering",0.506742],["wheel_1_3_steering",0.103976],["wheel_2_3_steering",0.649098],["glass1",0.0364576],["glass2",0.836072],["glass3",0.600484],["glass4",0.294573]]:0.102308:3626043335017:""
+10:18:55 "DEBUG: Spawning a crashed datsun02Wreck with DynamicDebris at [2857.82,4110.49]"
+10:18:55 "DEBUG: spawed loot inside vehicle "Skin_Drake_Light_DZ""
+10:18:55 "DEBUG: spawed loot inside vehicle "Skin_Soldier_TL_PMC_DZ""
+10:18:55 "DEBUG: spawed loot inside vehicle "ItemBandage""
+10:18:55 "PUBLISH: Attempt 14a650c0# 17589: tt650.p3d"
+10:18:55 "HIVE: WRITE: "CHILD:308:2:TT650_Ins:0:0:[107,[4171.58,3270.44,0.000293732]]:[]:[["engine",0.0843714],["sklo predni P",0.920719],["sklo predni L",0.449671],["karoserie",0.0459543],["palivo",0.503305],["Pravy predni tlumic",0.892244],["Pravy zadni tlumic",0.599767]]:0.908506:41716327040107:""
+10:18:55 class HitPoints::HitLF2Wheel not found in VIL_mondeo_civil
+10:18:55 "DEBUG: Spawning a crashed Rubbish2 with DynamicDebris at [3112.28,4259.52]"
+10:18:55 "PUBLISH: Attempt 14957040# 17591: vil_mondeo_civ.p3d"
+10:18:55 "HIVE: WRITE: "CHILD:308:2:VIL_mondeo_civil:0:0:[45,[3383.86,4356.59,0.000272751]]:[]:[["sklo_p",0.0128606],["sklo_p1",0.955595],["sklo_p2",0.554734],["sklo_p3",0.00951546],["sklo_l1",0.702966],["sklo_l2",0.548484],["sklo_l3",0.609578],["sklo_z",0.0831395],["levy predni tlumic",0.102968],["levy zadni tlumic",0.534881],["pravy predni tlumic",0.410636],["pravy zadni tlumic",0.960567],["motor",0.403127],["sklo predni P",0.604692],["sklo predni L",0.736863],["karoserie",0.0717801],["palivo",0.427854],["",0.230069],["",0.589439],["",0.385298],["",0.190269]]:0.675548:3383943566045:""
+10:18:55 Array tex in bin\config.bin/CfgVehicles/VIL_citrone_civil/Damage/ not even
+10:18:55 class HitPoints::HitLF2Wheel not found in VIL_citrone_civil1
+10:18:55 "DEBUG: spawed loot inside vehicle "Skin_Sniper1_DZ""
+10:18:55 "DEBUG: spawed loot inside vehicle "ItemBandage""
+10:18:55 "DEBUG: spawed loot inside vehicle "ItemBandage""
+10:18:55 "PUBLISH: Attempt 1491f040# 17593: vil_cytryna.p3d"
+10:18:55 "HIVE: WRITE: "CHILD:308:2:VIL_citrone_civil1:0:0:[157,[3484.8,3682.89,0.00234795]]:[]:[["sklo_p",0.0199963],["sklo_p1",0.49206],["sklo_p2",0.797352],["sklo_p3",0.783588],["sklo_l1",0.363747],["sklo_l2",0.444011],["sklo_l3",0.972784],["sklo_z",0.626977],["levy predni tlumic",0.155602],["levy zadni tlumic",0.560619],["pravy predni tlumic",0.697243],["pravy zadni tlumic",0.74007],["motor",0.286955],["sklo predni P",0.405352],["sklo predni L",0.539424],["karoserie",0.404973],["palivo",0.949209],["",0.856124],["",0.190239],["",0.61979],["",0.381217]]:0.388376:34848368290157:""
+10:18:55 "DEBUG: spawed loot inside vehicle "Skin_SurvivorWcombat_DZ""
+10:18:55 "DEBUG: spawed loot inside vehicle "Skin_SurvivorWpink_DZ""
+10:18:55 "PUBLISH: Attempt 1491e080# 17594: vil_smart_civ.p3d"
+10:18:55 "HIVE: WRITE: "CHILD:308:2:VIL_smart_civil2:0:0:[174,[3258.89,3996.33,0.0267334]]:[]:[["sklo_p",0.743787],["sklo_p1",0.933582],["sklo_p2",0.59594],["sklo_p3",0.384511],["sklo_l1",0.326408],["sklo_l2",0.662815],["sklo_l3",0.667535],["sklo_z",0.0151125],["levy predni tlumic",0.843857],["levy zadni tlumic",0.292563],["pravy predni tlumic",0.979832],["pravy zadni tlumic",0.371545],["motor",0.612272],["sklo predni P",0.752897],["sklo predni L",0.118758],["karoserie",0.394158],["palivo",0.121369],["",0.866365],["",0.969973],["",0.823437],["",0.126114]]:0.903051:32589399630174:""
+10:18:55 "DEBUG: Too many vehicles at [4041.54,3599.49]"
+10:18:56 "DEBUG: Spawning a crashed hiluxWreck with DynamicDebris at [3996.68,3611.69]"
+10:18:56 "DEBUG: Too many vehicles at [3553.74,3589.4]"
+10:18:56 "DEBUG: Spawning a crashed datsun01Wreck with DynamicDebris at [4244.03,3238.19]"
+10:18:56 "DEBUG: spawed loot inside vehicle "ItemBandage""
+10:18:56 "PUBLISH: Attempt 14906080# 17596: skodovka_blue.p3d"
+10:18:56 "HIVE: WRITE: "CHILD:308:2:SkodaBlue:0:0:[28,[4428.38,3600.53,0.363087]]:[]:[["motor",0.62651],["sklo predni P",0.147506],["sklo predni L",0.265127],["karoserie",0.170101],["palivo",0.470051],["wheel_1_1_steering",0.858843],["wheel_2_1_steering",0.863563],["wheel_1_4_steering",0.0483052],["wheel_2_4_steering",0.665438],["wheel_1_3_steering",0.515542],["wheel_2_3_steering",0.109384],["wheel_1_2_steering",0.327023],["wheel_2_2_steering",0.362501],["glass1",0.343013],["glass2",0.37135],["glass3",0.175035],["glass4",0.485937]]:0.515144:4428436005428:""
+10:18:56 "DEBUG: spawed loot inside vehicle "ItemBandage""
+10:18:56 "DEBUG: spawed loot inside vehicle "ItemSodaPepsi""
+10:18:56 "PUBLISH: Attempt 148b3040# 17598: vil_fiat_bus.p3d"
+10:18:56 "HIVE: WRITE: "CHILD:308:2:VIL_ducato_bus:0:0:[101,[3512.21,3537.94,0.000164032]]:[]:[["sklo_p",0.825365],["sklo_p1",0.29296],["sklo_p2",0.874783],["sklo_p3",0.587428],["sklo_l1",0.400825],["sklo_l2",0.281513],["sklo_l3",0.778854],["sklo_z",0.138242],["levy predni tlumic",0.439934],["levy zadni tlumic",0.480238],["pravy predni tlumic",0.935624],["pravy zadni tlumic",0.684593],["palivo",0.927559],["sklo predni P",0.368747],["sklo predni L",0.57518],["motor",0.491736],["",0.902453],["",0.304176],["",0.00365185],["",0.523674]]:0.274516:35122353790101:""
+10:18:56 Array tex in bin\config.bin/CfgVehicles/VIL_fobia_civil/Damage/ not even
+10:18:56 class HitPoints::HitLF2Wheel not found in VIL_fobia_civil4
+10:18:57 "DEBUG: Spawning a crashed Rubbish2 with DynamicDebris at [4354.11,3662.76]"
+10:18:57 "DEBUG: spawed loot inside vehicle "Skin_SurvivorWurban_DZ""
+10:18:57 "PUBLISH: Attempt 148b0100# 17599: vil_fabia.p3d"
+10:18:57 "HIVE: WRITE: "CHILD:308:2:VIL_fobia_civil4:0:0:[106,[3513.67,4398.77,0.0108204]]:[]:[["sklo_p",0.381359],["sklo_p1",0.292082],["sklo_p2",0.596462],["sklo_p3",0.677297],["sklo_l1",0.626873],["sklo_l2",0.644883],["sklo_l3",0.79853],["sklo_z",0.702556],["levy predni tlumic",0.485377],["levy zadni tlumic",0.940285],["pravy predni tlumic",0.536068],["pravy zadni tlumic",0.551256],["motor",0.123254],["sklo predni P",0.429337],["sklo predni L",0.635319],["karoserie",0.0342226],["palivo",0.572234],["",0.971261],["",0.295872],["",0.598232],["",0.795678]]:0.820935:35137439880106:""
+10:18:57 "DEBUG: Spawning a crashed Rubbish2 with DynamicDebris at [3274.92,4535.88]"
+10:18:57 "PUBLISH: Attempt 1486a080# 17601: lr.p3d"
+10:18:57 "HIVE: WRITE: "CHILD:308:2:LandRover_CZ_EP1:0:0:[126,[4342.26,3223.97,0.00169563]]:[]:[["glass1",0.86281],["glass2",0.101149],["glass3",0.0135281],["motor",0.501502],["palivo",0.943355],["wheel_1_1_steering",0.356929],["wheel_1_2_steering",0.790963],["wheel_2_1_steering",0.697788],["wheel_2_2_steering",0.266452],["sklo predni P",0.885027],["sklo predni L",0.912407],["karoserie",0.387859],["wheel_1_4_steering",0.997492],["wheel_2_4_steering",0.0236919],["wheel_1_3_steering",0.998399],["wheel_2_3_steering",0.468647],["glass4",0.905248]]:0.290397:43423322400126:""
+10:18:57 "DEBUG: Too many vehicles at [3303.29,4350.35]"
+10:18:57 class HitPoints::HitBody not found in VIL_ducato_cargo
+10:18:57 class HitPoints::HitLF2Wheel not found in VIL_ducato_cargo
+10:18:57 "DEBUG: Spawning a crashed UralWreck with DynamicDebrisMilitary at [3280.3,4423.15]"
+10:18:57 "DEBUG: spawed loot inside vehicle "7Rnd_45ACP_1911""
+10:18:57 "PUBLISH: Attempt 14823040# 17603: vil_fiat_cargo.p3d"
+10:18:57 "HIVE: WRITE: "CHILD:308:2:VIL_ducato_cargo:0:0:[62,[3303.2,4619.6,0.00477898]]:[]:[["sklo_p",0.947934],["sklo_p1",0.206762],["sklo_p2",0.44881],["sklo_p3",0.831576],["sklo_l1",0.687432],["sklo_l2",0.689332],["sklo_l3",0.383402],["sklo_z",0.420881],["levy predni tlumic",0.200105],["levy zadni tlumic",0.297406],["pravy predni tlumic",0.0101294],["pravy zadni tlumic",0.614397],["palivo",0.293963],["sklo predni P",0.752716],["sklo predni L",0.578938],["motor",0.392823],["",0.0265812],["",0.295996],["",0.39958],["",0.478457]]:0.559469:3303246196062:""
+10:18:57 "DEBUG: Too many vehicles at [3190.87,4049]"
+10:18:57 "DEBUG: Spawning a crashed Rubbish2 with DynamicDebris at [4212.1,3253.23]"
+10:18:57 "DEBUG: spawed loot inside vehicle "ItemSodaEmpty""
+10:18:57 "PUBLISH: Attempt 147c6080# 17605: hilux1_civil_1_open.p3d"
+10:18:57 "HIVE: WRITE: "CHILD:308:2:hilux1_civil_1_open:0:0:[55,[4427.87,3126.45,0.271123]]:[]:[["motor",0.408486],["sklo predni P",0.446635],["sklo predni L",0.190746],["karoserie",0.878207],["palivo",0.937109],["wheel_1_1_steering",0.538885],["wheel_2_1_steering",0.375081],["wheel_1_4_steering",0.857722],["wheel_2_4_steering",0.148021],["wheel_1_3_steering",0.907429],["wheel_2_3_steering",0.340956],["wheel_1_2_steering",0.673176],["wheel_2_2_steering",0.884414],["glass1",0.35385],["glass2",0.259867],["glass3",0.991395],["glass4",0.358093]]:0.346958:4427931264355:""
+10:18:57 "DEBUG: spawed loot inside vehicle "ItemSodaCoke""
+10:18:57 "DEBUG: spawed loot inside vehicle "Skin_Soldier_TL_PMC_DZ""
+10:18:57 "PUBLISH: Attempt 14777040# 17607: lr.p3d"
+10:18:57 "HIVE: WRITE: "CHILD:308:2:LandRover_TK_CIV_EP1:0:0:[45,[3381.56,4447.37,0.0814457]]:[]:[["glass1",0.29762],["glass2",0.277218],["glass3",0.208386],["motor",0.853292],["palivo",0.34382],["wheel_1_1_steering",0.127068],["wheel_1_2_steering",0.821106],["wheel_2_1_steering",0.225151],["wheel_2_2_steering",0.0369481],["sklo predni P",0.539106],["sklo predni L",0.0295518],["karoserie",0.706713],["wheel_1_4_steering",0.703369],["wheel_2_4_steering",0.274963],["wheel_1_3_steering",0.19077],["wheel_2_3_steering",0.554296],["glass4",0.0134958]]:0.538861:3381644474145:""
+10:18:57 "DEBUG: Too many vehicles at [3126.03,4018.57]"
+10:18:57 "DEBUG: spawed loot inside vehicle "ItemSodaCoke""
+10:18:57 "PUBLISH: Attempt 148210c0# 17608: gnt_c185.p3d"
+10:18:57 "HIVE: WRITE: "CHILD:308:2:GNT_C185C:0:0:[105,[4169.41,3323.07,0.1936]]:[]:[["telo",0.559278]]:0.618702:41694332312105:""
+10:18:57 "DEBUG: Spawning a crashed UralWreck with DynamicDebrisMilitary at [4027.94,3127.89]"
+10:18:57 "DEBUG: Too many vehicles at [3553.74,3589.4]"
+10:18:57 "DEBUG: Too many vehicles at [3143.03,4028.93]"
+10:18:57 "DEBUG: Too many vehicles at [3525.58,4426.63]"
+10:18:58 "DEBUG: Too many at [3553.74,3589.4]"
+10:18:58 "PUBLISH: Attempt 14758100# 17610: an2.p3d"
+10:18:58 "HIVE: WRITE: "CHILD:308:2:AN2_DZ:0:0:[98,[3623.18,3223.66,0.702496]]:[]:[["glass1",0.95294],["glass2",0.697508],["glass3",0.390795],["glass4",0.0873113],["telo",0.939962]]:0.238822:3623232237798:""
+10:18:58 "DEBUG: Spawning a crashed hiluxWreck with DynamicDebris at [4105.66,3170.65]"
+10:18:58 "DEBUG: spawed loot inside vehicle "2Rnd_shotgun_74Slug""
+10:18:58 "PUBLISH: Attempt 146fa080# 17611: skodovka.p3d"
+10:18:58 "HIVE: WRITE: "CHILD:308:2:Skoda:0:0:[1,[3725.44,3627.98,0]]:[]:[["motor",0.540923],["sklo predni P",0.0529166],["sklo predni L",0.359322],["karoserie",0.7262],["palivo",0.481456],["wheel_1_1_steering",0.0299672],["wheel_2_1_steering",0.893985],["wheel_1_4_steering",0.566866],["wheel_2_4_steering",0.523001],["wheel_1_3_steering",0.259925],["wheel_2_3_steering",0.601872],["wheel_1_2_steering",0.97248],["wheel_2_2_steering",0.511214],["glass1",0.231716],["glass2",0.740178],["glass3",0.440328],["glass4",0.00688681]]:0.326076:372543628001:""
+10:18:58 "DEBUG: Spawning a crashed Land_Misc_Garb_Heap_EP1 with DynamicDebris at [3907.18,3311.73]"
+10:18:59 "DEBUG: Too many vehicles at [3553.74,3589.4]"
+10:18:59 "DEBUG: spawed loot inside vehicle "ItemBandage""
+10:18:59 "DEBUG: spawed loot inside vehicle "TrashTinCan""
+10:18:59 "PUBLISH: Attempt 146b7040# 17614: tt650.p3d"
+10:18:59 "HIVE: WRITE: "CHILD:308:2:TT650_Ins:0:0:[140,[4417.36,3283.21,0.00116348]]:[]:[["engine",0.00920672],["sklo predni P",0.13861],["sklo predni L",0.677977],["karoserie",0.54685],["palivo",0.156851],["Pravy predni tlumic",0.452359],["Pravy zadni tlumic",0.570289]]:0.716882:44174328320140:""
+10:18:59 "DEBUG: Spawning a crashed Fort_Barricade_EP1 with DynamicDebris at [4247.83,3303.36]"
+10:18:59 "DEBUG: spawed loot inside vehicle "ItemSodaEmpty""
+10:18:59 "PUBLISH: Attempt 14663040# 17616: kamaz_refuel.p3d"
+10:18:59 "HIVE: WRITE: "CHILD:308:2:KamazRefuel_DZ:0:0:[39,[3187.09,4455.47,0.017683]]:[]:[["wheel_1_1_steering",0.947233],["wheel_2_1_steering",0.692831],["wheel_1_4_steering",0.290156],["wheel_2_4_steering",0.0651195],["wheel_1_3_steering",0.683346],["wheel_2_3_steering",0.460667],["wheel_1_2_steering",0.4927],["wheel_2_2_steering",0.340179],["motor",0.210998],["sklo predni P",0.850012],["sklo predni L",0.214714],["karoserie",0.934352],["palivo",0.477839],["glass1",0.151099],["glass2",0.567647],["glass3",0.236135],["glass4",0.917292]]:0.48213:3187144555039:""
+10:18:59 Array tex in bin\config.bin/CfgVehicles/VIL_kia_ceed/Damage/ not even
+10:18:59 class HitPoints::HitLF2Wheel not found in VIL_kia_ceed
+10:18:59 "DEBUG: Too many at [3553.74,3589.4]"
+10:18:59 "DEBUG: spawed loot inside vehicle "Skin_Bandit1_DZ""
+10:18:59 "DEBUG: spawed loot inside vehicle "ItemHeatPack""
+10:18:59 "DEBUG: spawed loot inside vehicle "Skin_Soldier_Bodyguard_AA12_PMC_DZ""
+10:18:59 "PUBLISH: Attempt 14653040# 17617: vil_kia_civ.p3d"
+10:18:59 "HIVE: WRITE: "CHILD:308:2:VIL_kia_ceed:0:0:[77,[3622.67,3501.47,0.000535965]]:[]:[["sklo_p",0.417457],["sklo_p1",0.763663],["sklo_p2",0.604991],["sklo_p3",0.942052],["sklo_l1",0.179974],["sklo_l2",0.0660331],["sklo_l3",0.198213],["sklo_z",0.754782],["levy predni tlumic",0.151912],["levy zadni tlumic",0.484062],["pravy predni tlumic",0.310776],["pravy zadni tlumic",0.479716],["motor",0.817488],["sklo predni P",0.977456],["sklo predni L",0.0382682],["karoserie",0.0537928],["palivo",0.620447],["",0.91067],["",0.581982],["",0.658478],["",0.427804]]:0.663621:3622735015077:""
+10:18:59 class HitPoints::HitLF2Wheel not found in VIL_mondeo_civil3
+10:18:59 "DEBUG: Spawning a crashed Land_Misc_Garb_Heap_EP1 with DynamicDebris at [2595.46,3904.39]"
+10:18:59 "PUBLISH: Attempt 14613040# 17618: vil_mondeo_civ.p3d"
+10:18:59 "HIVE: WRITE: "CHILD:308:2:VIL_mondeo_civil3:0:0:[9,[3942.82,3616.05,0]]:[]:[["sklo_p",0.400115],["sklo_p1",0.271015],["sklo_p2",0.322821],["sklo_p3",0.56475],["sklo_l1",0.916895],["sklo_l2",0.424382],["sklo_l3",0.679794],["sklo_z",0.37081],["levy predni tlumic",0.968085],["levy zadni tlumic",0.250304],["pravy predni tlumic",0.410578],["pravy zadni tlumic",0.409686],["motor",0.544229],["sklo predni P",0.97915],["sklo predni L",0.447915],["karoserie",0.878678],["palivo",0.139498],["",0.0995821],["",0.476153],["",0.0450857],["",0.631932]]:0.1182:394283616109:""
+10:19:00 "DEBUG: Spawning a crashed Land_Misc_Garb_Heap_EP1 with DynamicDebris at [4383.17,3500.86]"
+10:19:00 "DEBUG: spawed loot inside vehicle "Skin_Soldier1_DZ""
+10:19:00 "DEBUG: spawed loot inside vehicle "Skin_Bandit2_DZ""
+10:19:00 "DEBUG: spawed loot inside vehicle "ItemBandage""
+10:19:00 "PUBLISH: Attempt 192d2080# 17620: mtvr.p3d"
+10:19:00 "HIVE: WRITE: "CHILD:308:2:MTVR_DES_EP1:0:0:[90,[4367.37,3547.24,0.13307]]:[]:[["wheel_1_1_steering",0.918065],["wheel_1_2_steering",0.985426],["wheel_1_3_steering",0.709918],["wheel_2_1_steering",0.0984204],["wheel_2_2_steering",0.608148],["wheel_2_3_steering",0.755985],["palivo",0.564722],["wheel_1_4_steering",0.170971],["wheel_2_4_steering",0.751523],["motor",0.850441],["sklo predni P",0.0445396],["sklo predni L",0.139749],["karoserie",0.994468],["glass1",0.614489],["glass2",0.480764],["glass3",0.920654],["glass4",0.111392]]:0.973896:4367435472190:""
+10:19:00 "DEBUG: spawed loot inside vehicle "Skin_Sniper1_DZ""
+10:19:00 "PUBLISH: Attempt 14612080# 17622: mmt.p3d"
+10:19:00 "HIVE: WRITE: "CHILD:308:2:MMT_Civ:0:0:[61,[2503.33,3865.42,0.0590706]]:[]:[]:0:2503338654161:""
+10:19:00 "DEBUG: Spawning a crashed Fort_Barricade_EP1 with DynamicDebris at [4022.05,3617.99]"
+10:19:00 "DEBUG: Too many at [4171.75,3272.43]"
+10:19:00 "DEBUG: Too many vehicles at [4051.03,3132.84]"
+10:19:00 "DEBUG: Spawning a crashed hiluxWreck with DynamicDebris at [2849.37,4106.42]"
+10:19:00 class HitPoints::HitLF2Wheel not found in VIL_passat_civil3
+10:19:00 "DEBUG: spawed loot inside vehicle "TrashTinCan""
+10:19:00 "PUBLISH: Attempt 18e77040# 17626: vil_passat_civ.p3d"
+10:19:00 "HIVE: WRITE: "CHILD:308:2:VIL_passat_civil3:0:0:[123,[4344.91,3286.21,0.00483322]]:[]:[["sklo_p",0.774426],["sklo_p1",0.818485],["sklo_p2",0.412062],["sklo_p3",0.240913],["sklo_l1",0.470628],["sklo_l2",0.0516543],["sklo_l3",0.627993],["sklo_z",0.825302],["levy predni tlumic",0.810811],["levy zadni tlumic",0.834493],["pravy predni tlumic",0.162797],["pravy zadni tlumic",0.570199],["motor",0.414579],["sklo predni P",0.799953],["sklo predni L",0.341413],["karoserie",0.593445],["palivo",0.243083],["",0.782058],["",0.425236],["",0.215357],["",0.378194]]:0.308458:43449328620123:""
+10:19:00 "DEBUG: Too many vehicles at [4341.82,3226.75]"
+10:19:00 "DEBUG: Spawning a crashed Fort_Barricade_EP1 with DynamicDebris at [3530.33,4251.04]"
+10:19:00 "DEBUG: Spawning a crashed UAZWreck with DynamicDebrisMilitary at [3150.88,4231.46]"
+10:19:00 "DEBUG: Spawning a crashed HMMWVWreck with DynamicDebrisMilitary at [3974.29,3590.89]"
+10:19:01 "STARTING LOGIN: ["5583113",B 1-1-A:2 (Conan) REMOTE]"
+10:19:01 "LOGIN ATTEMPT: "5583113" Conan"
+10:19:01 "LOGIN LOADED: B 1-1-A:2 (Conan) REMOTE Type: Survivor1_DZ"
+10:19:01 UH1Y_DZ: ObsTurret - unknown animation source ObsTurret
+10:19:01 UH1Y_DZ: ObsGun - unknown animation source ObsGun
+10:19:02 "DEBUG: Spawning a crashed HMMWVWreck with DynamicDebrisMilitary at [3173.32,4339.82]"
+10:19:02 "DEBUG: Spawning a crashed Fort_Barricade_EP1 with DynamicDebris at [3555.27,3681.06]"
+10:19:02 "Adding MPHit EH for B 1-1-B:1 (Conan) REMOTE"
+10:19:02 "LOGIN PUBLISHING: B 1-1-B:1 (Conan) REMOTE Type: Survivor2_DZ"
+10:19:02 "DEBUG: Spawning a crashed datsun02Wreck with DynamicDebris at [3750.46,3426.7]"
+10:19:02 Bad lock radius 144.813
+10:19:02 Bad lock radius 86.8879
+10:19:02 Bad lock radius 86.8879
+10:19:02 Bad lock radius 144.813
+10:19:02 Bad lock radius 144.813
+10:19:02 Bad lock radius 86.8879
+10:19:02 "DEBUG: Spawning a crashed Land_Misc_Garb_Heap_EP1 with DynamicDebris at [3583.41,3619.73]"
+10:19:02 "DEBUG: Spawning a crashed UAZWreck with DynamicDebrisMilitary at [3378.82,3601.98]"
+10:19:02 Array tex in bin\config.bin/CfgVehicles/VIL_fobia_civil/Damage/ not even
+10:19:02 class HitPoints::HitLF2Wheel not found in VIL_fobia_civil3
+10:19:02 "DEBUG: spawed loot inside vehicle "ItemSodaCoke""
+10:19:02 "PUBLISH: Attempt 18c43040# 17643: vil_fabia.p3d"
+10:19:02 "HIVE: WRITE: "CHILD:308:2:VIL_fobia_civil3:0:0:[117,[3393.03,3605.31,0]]:[]:[["sklo_p",0.863266],["sklo_p1",0.888643],["sklo_p2",0.961785],["sklo_p3",0.634384],["sklo_l1",0.897635],["sklo_l2",0.194862],["sklo_l3",0.687706],["sklo_z",0.319825],["levy predni tlumic",0.56282],["levy zadni tlumic",0.387166],["pravy predni tlumic",0.366561],["pravy zadni tlumic",0.221143],["motor",0.422698],["sklo predni P",0.94084],["sklo predni L",0.58972],["karoserie",0.281009],["palivo",0.320584],["",0.684858],["",0.00478445],["",0.49763],["",0.0631964]]:0.666022:33930360530117:""
+10:19:02 "DEBUG: Too many vehicles at [4362.64,3541.89]"
+10:19:02 "DEBUG: Too many vehicles at [3303,4618.84]"
+10:19:02 Array tex in bin\config.bin/CfgVehicles/VIL_fobia_civil/Damage/ not even
+10:19:02 class HitPoints::HitLF2Wheel not found in VIL_fobia_civil5
+10:19:02 "DEBUG: Spawning a crashed HMMWVWreck with DynamicDebrisMilitary at [4041.56,3125.13]"
+10:19:02 "DEBUG: Spawning a crashed Rubbish2 with DynamicDebris at [3598.42,3656.63]"
+10:19:03 "DEBUG: Spawning a crashed Fort_Barricade_EP1 with DynamicDebris at [3516.6,4246.39]"
+10:19:03 "DEBUG: Spawning a crashed datsun02Wreck with DynamicDebris at [3300.46,4418.63]"
+10:19:03 "DEBUG: Too many vehicles at [3499.95,4442.08]"
+10:19:03 "DEBUG: Spawning a crashed HMMWVWreck with DynamicDebrisMilitary at [3380.12,3616.05]"
+10:19:03 "DEBUG: Spawning a crashed HMMWVWreck with DynamicDebrisMilitary at [3885.56,3304.2]"
+10:19:03 "DEBUG: spawed loot inside vehicle "ItemAntibiotic""
+10:19:03 "PUBLISH: Attempt 18c310c0# 17653: csj_gyroc.p3d"
+10:19:03 "HIVE: WRITE: "CHILD:308:2:CSJ_GyroC:0:0:[17,[4253.38,3651.56,0.0188446]]:[]:[["NEtrup",0.613777],["motor",0.156857],["elektronika",0.47923],["mala vrtule",0.894625],["velka vrtule",0.109091],["munice",0.312707],["sklo predni P",0.670268],["sklo predni L",0.343445],["glass1",0.0290895],["glass2",0.919512],["glass3",0.229641],["glass4",0.185667],["glass5",0.45231],["glass6",0.567294]]:0.564572:4253436516017:""
+10:19:03 "DEBUG: Spawning a crashed Land_Misc_Garb_Heap_EP1 with DynamicDebris at [3679.35,4299.28]"
+10:19:03 "DEBUG: Spawning a crashed Fort_Barricade_EP1 with DynamicDebris at [4300.58,3720.36]"
+10:19:05 "DEBUG: Spawning a crashed UAZWreck with DynamicDebrisMilitary at [3272.11,4523.42]"
+10:19:05 "DEBUG: Spawning a crashed Land_Misc_Garb_Heap_EP1 with DynamicDebris at [3908.29,3363.43]"
+10:19:05 "DEBUG: Spawning a crashed datsun01Wreck with DynamicDebris at [4350.31,3670.09]"
+10:19:05 "DEBUG: Spawning a crashed UAZWreck with DynamicDebrisMilitary at [4360.26,3620.15]"
+10:19:05 "DEBUG: Spawning a crashed datsun02Wreck with DynamicDebris at [3869.87,3376.04]"
+10:19:06 "DEBUG: Spawning a crashed Fort_Barricade_EP1 with DynamicDebris at [3499.08,3985.42]"
+10:19:06 "DEBUG: Spawning a crashed datsun01Wreck with DynamicDebris at [3409.07,4052.87]"
+10:19:06 "DEBUG: Spawning a crashed datsun01Wreck with DynamicDebris at [2835.61,4105.32]"
+10:19:06 "DEBUG: Spawning a crashed HMMWVWreck with DynamicDebrisMilitary at [3854.72,4208.86]"
+10:19:06 "DEBUG: Spawning a crashed UAZWreck with DynamicDebrisMilitary at [3596.71,4207.33]"
+10:19:06 "DEBUG: Spawning a crashed hiluxWreck with DynamicDebris at [3602.59,3650.2]"
+10:19:06 "DEBUG: Spawning a crashed Rubbish2 with DynamicDebris at [4072.06,3146.43]"
+10:19:06 "DEBUG: Spawning a crashed HMMWVWreck with DynamicDebrisMilitary at [3537.63,4241.47]"
+10:19:06 "DEBUG: Spawning a crashed SKODAWreck with DynamicDebris at [3698.78,3466.46]"
+10:19:06 "DEBUG: Spawning a crashed Land_Misc_Garb_Heap_EP1 with DynamicDebris at [3931.36,3618.58]"
+10:19:06 "DEBUG: Spawning a crashed datsun01Wreck with DynamicDebris at [4390.84,3202.67]"
+10:19:06 "DEBUG: Spawning a crashed UAZWreck with DynamicDebrisMilitary at [3239.41,4074.07]"
+10:19:06 "EPOCH EVENTS INIT"
+10:19:06 "DEBUG: Spawning a crashed HMMWVWreck with DynamicDebrisMilitary at [3889.25,4164.33]"
+10:19:06 "DEBUG: Spawning a crashed UAZWreck with DynamicDebrisMilitary at [3465.03,3600.06]"
+10:19:06 "DEBUG: Spawning a crashed UAZWreck with DynamicDebrisMilitary at [4214.75,3757.02]"
+10:19:06 "DEBUG: Too many at [3812.33,3614.43]"
+10:19:06 "DEBUG: Spawning a crashed UAZWreck with DynamicDebrisMilitary at [2564.73,3854.94]"
+10:19:07 "DEBUG: Spawning a crashed UralWreck with DynamicDebrisMilitary at [3132.43,4359.92]"
+10:19:07 "DEBUG: Spawning a crashed UAZWreck with DynamicDebrisMilitary at [4239.25,3278.92]"
+10:19:07 "DEBUG: Spawning a crashed Fort_Barricade_EP1 with DynamicDebris at [3713.82,4114.39]"
+10:19:07 "DEBUG: Spawning a crashed Fort_Barricade_EP1 with DynamicDebris at [3675.59,3626.43]"
+10:19:07 "Starting DZAI Server Monitor in 60 seconds."
+10:19:07 "Spawning AI helicopter patrols and dynamic triggers in 30 seconds."
+10:19:07 "[DZAI] Building DZAI weapon arrays using CfgBuildingLoot data."
+10:19:07 "DZAI_Pistols3 is empty. Populating with entries from DZAI_Pistols2."
+10:19:07 "[DZAI] DZAI weapon classname tables created in 0.0220032 seconds."
+10:19:07 Error in expression <t","_lootListCheck","_startTime"];
+
+if (DZAI_weaponsInitialized) exitWith {};
+
+_>
+10:19:07   Error position: <DZAI_weaponsInitialized) exitWith {};
+
+_>
+10:19:07   Error Ismeretlen változó a kifejezésben: dzai_weaponsinitialized
+10:19:07 File z\addons\dayz_server\DZAI\scripts\buildWeaponArrays.sqf, line 11
+10:19:07 "DEBUG: Spawning a crashed hiluxWreck with DynamicDebris at [3853.37,3610.4]"
+10:19:07 "DEBUG: Spawning a crashed UralWreck with DynamicDebrisMilitary at [4148.09,3875.59]"
+10:19:07 "DEBUG: Spawning a crashed datsun02Wreck with DynamicDebris at [4165.46,3206.35]"
+10:19:07 "DEBUG: Spawning a crashed UAZWreck with DynamicDebrisMilitary at [3924.93,3304.93]"
+10:19:07 "DEBUG: Spawning a crashed SKODAWreck with DynamicDebris at [3646.27,3534.65]"
+10:19:07 "DEBUG: Spawning a crashed HMMWVWreck with DynamicDebrisMilitary at [2784.98,4063.17]"
+10:19:07 "DEBUG: Spawning a crashed HMMWVWreck with DynamicDebrisMilitary at [3753.71,4075.32]"
+10:19:07 "DEBUG: Spawning a crashed UralWreck with DynamicDebrisMilitary at [3799.86,3616.22]"
+10:19:07 "DEBUG: Spawning a crashed UAZWreck with DynamicDebrisMilitary at [3545.39,3613.92]"
+10:19:07 "DEBUG: Spawning a crashed Land_Misc_Garb_Heap_EP1 with DynamicDebris at [3594.14,3727.75]"
+10:19:07 "DEBUG: Spawning a crashed datsun01Wreck with DynamicDebris at [3931.51,3350.52]"
+10:19:07 "DEBUG: Spawning a crashed UralWreck with DynamicDebrisMilitary at [3909.97,3305.2]"
+10:19:07 "DEBUG: Too many vehicles at [3177.56,4044.42]"
+10:19:08 "DEBUG: Too many vehicles at [4176.1,3231.7]"
+10:19:08 "DEBUG: Spawning a crashed Fort_Barricade_EP1 with DynamicDebris at [3141.43,4252.84]"
+10:19:08 "DEBUG: Spawning a crashed UAZWreck with DynamicDebrisMilitary at [3652.27,3613.8]"
+10:19:08 "DEBUG: Too many vehicles at [3519.54,3508.47]"
+10:19:08 "DEBUG: Spawning a crashed Fort_Barricade_EP1 with DynamicDebris at [3177.52,4012.25]"
+10:19:08 VIL_vwt4_banksec: Glass4_destruct - unknown animation source HitGlass4
+10:19:08 VIL_vwt4_banksec: Glass7_destruct - unknown animation source HitGlass7
+10:19:08 class HitPoints::HitBody not found in VIL_vwt4_banksec
+10:19:08 class HitPoints::HitLF2Wheel not found in VIL_vwt4_banksec
+10:19:08 class HitPoints::HitRF2Wheel not found in VIL_vwt4_banksec
+10:19:08 class HitPoints::HitLMWheel not found in VIL_vwt4_banksec
+10:19:08 class HitPoints::HitRMWheel not found in VIL_vwt4_banksec
+10:19:08 "DEBUG: Too many vehicles at [4375.17,3245.21]"
+10:19:08 "DEBUG: Spawning a crashed hiluxWreck with DynamicDebris at [3587.72,3677.88]"
+10:19:08 "DEBUG: Too many vehicles at [3612.42,4376.31]"
+10:19:08 "DEBUG: Spawning a crashed datsun02Wreck with DynamicDebris at [3620.4,4194.81]"
+10:19:09 "DEBUG: Spawning a crashed hiluxWreck with DynamicDebris at [3932.36,3605.29]"
+10:19:09 "DEBUG: Spawning a crashed HMMWVWreck with DynamicDebrisMilitary at [4456.42,3165.27]"
+10:19:09 "DEBUG: Too many vehicles at [3499.8,4432.17]"
+10:19:09 "DEBUG: Spawning a crashed Fort_Barricade_EP1 with DynamicDebris at [3667.54,4154.75]"
+10:19:09 "PUBLISH: Attempt 187e7040# 17725: uh1y.p3d"
+10:19:09 "HIVE: WRITE: "CHILD:308:2:UH1Y_DZ:0:0:[127,[3881.94,2933.4,0.0687475]]:[]:[["NEtrup",0.560037],["motor",0.818056],["elektronika",0.644767],["mala vrtule",0.188735],["velka vrtule",0.864237],["munice",0.469461],["sklo predni P",0.910794],["sklo predni L",0.074817],["glass1",0.248299],["glass2",0.138518],["glass3",0.146054],["glass4",0.260795],["glass5",0.466249],["glass6",0.466448]]:0.929274:38819293341127:""
+10:19:09 "DEBUG: Too many vehicles at [3298.23,4471.31]"
+10:19:09 "DEBUG: Spawning a crashed UAZWreck with DynamicDebrisMilitary at [4085.49,3169.97]"
+10:19:09 "DEBUG: Spawning a crashed hiluxWreck with DynamicDebris at [3164.27,4224.9]"
+10:19:09 "DEBUG: Spawning a crashed Land_Misc_Garb_Heap_EP1 with DynamicDebris at [4102.49,3608.13]"
+10:19:09 Array tex in bin\config.bin/CfgVehicles/VIL_karoca_civil/Damage/ not even
+10:19:09 class HitPoints::HitLF2Wheel not found in VIL_karoca_civil
+10:19:09 "DEBUG: Spawning a crashed hiluxWreck with DynamicDebris at [3632.33,3548.63]"
+10:19:09 "DEBUG: Spawning a crashed Rubbish2 with DynamicDebris at [3953.73,4088.01]"
+10:19:09 Array tex in bin\config.bin/CfgVehicles/VIL_kia_ceed/Damage/ not even
+10:19:09 class HitPoints::HitLF2Wheel not found in VIL_kia_ceed4
+10:19:09 "DEBUG: spawed loot inside vehicle "Skin_Pilot_EP1_DZ""
+10:19:09 "DEBUG: spawed loot inside vehicle "Skin_Soldier1_DZ""
+10:19:09 "PUBLISH: Attempt 11aeb040# 17732: vil_kia_civ.p3d"
+10:19:09 "HIVE: WRITE: "CHILD:308:2:VIL_kia_ceed4:0:0:[163,[3884.28,4152.92,0.0397396]]:[]:[["sklo_p",0.081768],["sklo_p1",0.506123],["sklo_p2",0.155103],["sklo_p3",0.868373],["sklo_l1",0.66282],["sklo_l2",0.201723],["sklo_l3",0.636077],["sklo_z",0.412852],["levy predni tlumic",0.235896],["levy zadni tlumic",0.562246],["pravy predni tlumic",0.0764829],["pravy zadni tlumic",0.552753],["motor",0.030686],["sklo predni P",0.887827],["sklo predni L",0.832792],["karoserie",0.479655],["palivo",0.448137],["",0.805772],["",0.880183],["",0.14047],["",0.708769]]:0.499439:38843415290163:""
+10:19:09 "DEBUG: spawed loot inside vehicle "ItemEpinephrine""
+10:19:09 "DEBUG: spawed loot inside vehicle "Skin_Rocker1_DZ""
+10:19:09 "PUBLISH: Attempt 11ad3040# 17733: lada.p3d"
+10:19:09 "HIVE: WRITE: "CHILD:308:2:Lada1_TK_CIV_EP1:0:0:[77,[3929.38,4100.65,0.0181637]]:[]:[["motor",0.674795],["sklo predni P",0.174176],["sklo predni L",0.898183],["karoserie",0.693068],["palivo",0.188486],["wheel_1_1_steering",0.759452],["wheel_2_1_steering",0.569635],["wheel_1_4_steering",0.420022],["wheel_2_4_steering",0.685529],["wheel_1_3_steering",0.130252],["wheel_2_3_steering",0.33017],["wheel_1_2_steering",0.720459],["wheel_2_2_steering",0.547093],["glass1",0.306777],["glass2",0.802758],["glass3",0.777663],["glass4",0.095927]]:0.44554:3929441007077:""
+10:19:09 "DEBUG: Spawning a crashed Rubbish2 with DynamicDebris at [4094.82,3618.37]"
+10:19:09 "DEBUG: spawed loot inside vehicle "15Rnd_9x19_M9""
+10:19:09 "DEBUG: spawed loot inside vehicle "Skin_CZ_Special_Forces_GL_DES_EP1_DZ""
+10:19:09 "PUBLISH: Attempt 11ad10c0# 17735: uh60m.p3d"
+10:19:09 "HIVE: WRITE: "CHILD:308:2:UH60M_EP1_DZ:0:0:[176,[4050.75,3716.21,0.0556126]]:[]:[["glass1",0.818997],["glass2",0.963309],["glass3",0.602685],["glass4",0.15971],["glass5",0.564434],["NEtrup",0.0519171],["motor",0.853228],["elektronika",0.595558],["mala vrtule",0.0236466],["velka vrtule",0.233943],["munice",0.919881],["sklo predni P",0.749751],["sklo predni L",0.370266],["glass6",0.853609]]:0.782899:40508371621176:""
+10:19:09 "DEBUG: spawed loot inside vehicle "TrashJackDaniels""
+10:19:09 "PUBLISH: Attempt 11ad0100# 17736: an2.p3d"
+10:19:09 "HIVE: WRITE: "CHILD:308:2:AN2_DZ:0:0:[137,[4099.86,3863.84,0.673014]]:[]:[["glass1",0.687267],["glass2",0.414026],["glass3",0.197712],["glass4",0.769821],["telo",0.497799]]:0.919267:40999386387137:""
+10:19:10 Array tex in bin\config.bin/CfgVehicles/VIL_alfa_civil/Damage/ not even
+10:19:10 class HitPoints::HitLF2Wheel not found in VIL_alfa_civil2
+10:19:10 "DEBUG: Too many vehicles at [3086.78,3959.75]"
+10:19:10 "DEBUG: Spawning a crashed UAZWreck with DynamicDebrisMilitary at [3126.97,3975.88]"
+10:19:10 "DEBUG: spawed loot inside vehicle "ItemSodaCoke""
+10:19:10 "PUBLISH: Attempt 11ad2080# 17739: yac_octavia_civ.p3d"
+10:19:10 "HIVE: WRITE: "CHILD:308:2:VIL_octavia_civil:0:0:[62,[4235.93,3253.34,9.53674e-005]]:[]:[["sklo_p",0.674079],["sklo_p1",0.011745],["sklo_p2",0.811374],["sklo_p3",0.906892],["sklo_l1",0.452194],["sklo_l2",0.129175],["sklo_l3",0.526453],["sklo_z",0.736619],["levy predni tlumic",0.522966],["levy zadni tlumic",0.603912],["pravy predni tlumic",0.564836],["pravy zadni tlumic",0.524661],["motor",0.995312],["sklo predni P",0.970237],["sklo predni L",0.234611],["karoserie",0.0245009],["palivo",0.635002],["",0.394534],["",0.575118],["",0.38778],["",0.970005]]:0.720575:4235932533062:""
+10:19:10 "DEBUG: Too many vehicles at [3186.02,4041.23]"
+10:19:10 "DEBUG: Spawning a crashed datsun02Wreck with DynamicDebris at [4097.09,3976.81]"
+10:19:10 Array tex in bin\config.bin/CfgVehicles/VIL_kia_ceeddwa/Damage/ not even
+10:19:10 class HitPoints::HitLF2Wheel not found in VIL_kia_ceeddwa6
+10:19:10 "DEBUG: Spawning a crashed Fort_Barricade_EP1 with DynamicDebris at [3717.97,3604.66]"
+10:19:10 "DEBUG: Spawning a crashed UAZWreck with DynamicDebrisMilitary at [3886.02,4178.15]"
+10:19:10 "DEBUG: Spawning a crashed hiluxWreck with DynamicDebris at [4356.95,3482.5]"
+10:19:10 "DEBUG: Spawning a crashed UralWreck with DynamicDebrisMilitary at [3883.13,3375.93]"
+10:19:10 "DEBUG: Spawning a crashed UralWreck with DynamicDebrisMilitary at [3214.19,4401.54]"
+10:19:10 "PUBLISH: Attempt 11a98100# 17748: mi_8mt.p3d"
+10:19:10 "HIVE: WRITE: "CHILD:308:2:Mi17_DZ:0:0:[16,[3438.07,3631.2,0.479448]]:[]:[["glass1",0.448343],["glass2",0.319662],["glass3",0.735351],["glass4",0.928806],["glass5",0.865699],["glass6",0.252427],["NEtrup",0.0300127],["motor",0.065529],["elektronika",0.144661],["mala vrtule",0.175004],["velka vrtule",0.413624],["munice",0.595167],["sklo predni P",0.0104527],["sklo predni L",0.703358]]:0.666199:3438136312516:""
+10:19:10 "DEBUG: Spawning a crashed UAZWreck with DynamicDebrisMilitary at [3891.72,4155.43]"
+10:19:10 "DEBUG: Too many vehicles at [3145.22,4045.17]"
+10:19:10 "DEBUG: Spawning a crashed datsun01Wreck with DynamicDebris at [4248.3,3282.5]"
+10:19:10 "DEBUG: Spawning a crashed SKODAWreck with DynamicDebris at [3995.29,4080.84]"
+10:19:10 "DEBUG: Spawning a crashed Rubbish2 with DynamicDebris at [3561.03,4235.13]"
+10:19:11 "DEBUG: Spawning a crashed HMMWVWreck with DynamicDebrisMilitary at [4338.44,3227.42]"
+10:19:11 "DEBUG: Too many vehicles at [3553.74,3589.4]"
+10:19:11 "HIVE: WRITE: "CHILD:388:2503338654161:""
+10:19:11 "CUSTOM: Selected "325""
+10:19:11 "PUBLISH: Created MMT_Civ with ID "2503338654161""
+10:19:11 "PUBLISH: Attempt 1924e080# 17624: uaz.p3d"
+10:19:11 "HIVE: WRITE: "CHILD:308:2:UAZ_Unarmed_TK_EP1:0:0:[68,[2936.31,4526.22,0]]:[]:[["glass1",0.514428],["glass2",0.897405],["glass3",0.763603],["glass4",0.73186],["wheel_1_1_steering",0.509176],["wheel_1_2_steering",0.292547],["wheel_2_1_steering",0.88169],["wheel_2_2_steering",0.802946],["motor",0.214591],["sklo predni P",0.199712],["sklo predni L",0.0168173],["karoserie",0.35021],["palivo",0.0382563],["wheel_1_4_steering",0.72047],["wheel_2_4_steering",0.1954],["wheel_1_3_steering",0.257947],["wheel_2_3_steering",0.302267]]:0.62655:2936345262068:""
+10:19:11 "HIVE: WRITE: "CHILD:388:4367435472190:""
+10:19:11 "CUSTOM: Selected "324""
+10:19:11 "DEBUG Damage: Added to NeedUpdate=192d2080# 17620: mtvr.p3d"
+10:19:11 "PUBLISH: Created MTVR_DES_EP1 with ID "4367435472190""
+10:19:11 "DEBUG: spawed loot inside vehicle "FoodCanUnlabeled""
+10:19:11 "DEBUG: spawed loot inside vehicle "ItemBandage""
+10:19:11 "DEBUG: spawed loot inside vehicle "TrashTinCan""
+10:19:11 "PUBLISH: Attempt 18e74100# 17627: skodovka_red.p3d"
+10:19:11 "HIVE: WRITE: "CHILD:308:2:SkodaRed:0:0:[50,[4114.38,3281.24,0.0391006]]:[]:[["motor",0.144921],["sklo predni P",0.0101545],["sklo predni L",0.903528],["karoserie",0.464714],["palivo",0.301135],["wheel_1_1_steering",0.687998],["wheel_2_1_steering",0.174843],["wheel_1_4_steering",0.0788769],["wheel_2_4_steering",0.235576],["wheel_1_3_steering",0.836846],["wheel_2_3_steering",0.218834],["wheel_1_2_steering",0.130437],["wheel_2_2_steering",0.500869],["glass1",0.574922],["glass2",0.443713],["glass3",0.857932],["glass4",0.503971]]:0.443418:4114432812050:""
+10:19:11 "HIVE: WRITE: "CHILD:388:3622735015077:""
+10:19:11 "CUSTOM: Selected "322""
+10:19:11 "DEBUG Damage: Added to NeedUpdate=14653040# 17617: vil_kia_civ.p3d"
+10:19:11 "HIVE: WRITE: "CHILD:388:44174328320140:""
+10:19:11 "CUSTOM: Selected "320""
+10:19:11 "DEBUG Damage: Added to NeedUpdate=146b7040# 17614: tt650.p3d"
+10:19:11 "PUBLISH: Created TT650_Ins with ID "44174328320140""
+10:19:11 "HIVE: WRITE: "CHILD:388:394283616109:""
+10:19:11 "CUSTOM: Selected "323""
+10:19:11 "DEBUG Damage: Added to NeedUpdate=14613040# 17618: vil_mondeo_civ.p3d"
+10:19:11 "PUBLISH: Created VIL_mondeo_civil3 with ID "394283616109""
+10:19:11 "DEBUG: Too many vehicles at [3304.86,4619.4]"
+10:19:11 "HIVE: WRITE: "CHILD:388:3187144555039:""
+10:19:11 "CUSTOM: Selected "321""
+10:19:11 "DEBUG Damage: Added to NeedUpdate=14663040# 17616: kamaz_refuel.p3d"
+10:19:11 "PUBLISH: Created KamazRefuel_DZ with ID "3187144555039""
+10:19:11 "HIVE: WRITE: "CHILD:388:372543628001:""
+10:19:11 "CUSTOM: Selected "319""
+10:19:11 "DEBUG Damage: Added to NeedUpdate=146fa080# 17611: skodovka.p3d"
+10:19:11 "PUBLISH: Created Skoda with ID "372543628001""
+10:19:11 "HIVE: WRITE: "CHILD:388:4427931264355:""
+10:19:11 "CUSTOM: Selected "315""
+10:19:11 "DEBUG Damage: Added to NeedUpdate=147c6080# 17605: hilux1_civil_1_open.p3d"
+10:19:11 "PUBLISH: Created hilux1_civil_1_open with ID "4427931264355""
+10:19:12 "HIVE: WRITE: "CHILD:388:3303246196062:""
+10:19:12 "CUSTOM: Selected "314""
+10:19:12 "DEBUG Damage: Added to NeedUpdate=14823040# 17603: vil_fiat_cargo.p3d"
+10:19:12 "PUBLISH: Created VIL_ducato_cargo with ID "3303246196062""
+10:19:12 "DEBUG: spawed loot inside vehicle "FoodCanUnlabeled""
+10:19:12 "DEBUG: spawed loot inside vehicle "8Rnd_B_Beneli_74Slug""
+10:19:12 "PUBLISH: Attempt 18df0100# 17631: uh1y.p3d"
+10:19:12 "HIVE: WRITE: "CHILD:308:2:UH1Y_DZ:0:0:[82,[3830.33,3999.94,0.0934639]]:[]:[["NEtrup",0.0753547],["motor",0.733586],["elektronika",0.479719],["mala vrtule",0.463038],["velka vrtule",0.819236],["munice",0.697715],["sklo predni P",0.996187],["sklo predni L",0.80768],["glass1",0.302093],["glass2",0.0310179],["glass3",0.0509551],["glass4",0.451624],["glass5",0.262381],["glass6",0.743818]]:0.693204:3830339999182:""
+10:19:12 "DEBUG: spawed loot inside vehicle "ItemBandage""
+10:19:12 "PUBLISH: Attempt 18c33040# 17644: vil_fabia.p3d"
+10:19:12 "HIVE: WRITE: "CHILD:308:2:VIL_fobia_civil5:0:0:[159,[4442.98,3189.08,0.110723]]:[]:[["sklo_p",0.366337],["sklo_p1",0.527577],["sklo_p2",0.206935],["sklo_p3",0.943396],["sklo_l1",0.9029],["sklo_l2",0.0687838],["sklo_l3",0.719125],["sklo_z",0.771544],["levy predni tlumic",0.121862],["levy zadni tlumic",0.114644],["pravy predni tlumic",0.182428],["pravy zadni tlumic",0.206659],["motor",0.457337],["sklo predni P",0.934021],["sklo predni L",0.875832],["karoserie",0.579717],["palivo",0.76546],["",0.690485],["",0.105267],["",0.0838736],["",0.789594]]:0.462698:44430318911159:""
+10:19:12 "HIVE: WRITE: "CHILD:388:3626043335017:""
+10:19:12 "CUSTOM: Selected "305""
+10:19:12 "DEBUG Damage: Added to NeedUpdate=14aaa080# 17587: atv.p3d"
+10:19:12 "PUBLISH: Created ATV_CZ_EP1 with ID "3626043335017""
+10:19:12 "HIVE: WRITE: "CHILD:388:3383943566045:""
+10:19:12 "CUSTOM: Selected "307""
+10:19:12 "DEBUG Damage: Added to NeedUpdate=14957040# 17591: vil_mondeo_civ.p3d"
+10:19:12 "PUBLISH: Created VIL_mondeo_civil with ID "3383943566045""
+10:19:12 "HIVE: WRITE: "CHILD:388:34848368290157:""
+10:19:12 "CUSTOM: Selected "308""
+10:19:12 "DEBUG Damage: Added to NeedUpdate=1491f040# 17593: vil_cytryna.p3d"
+10:19:12 "PUBLISH: Created VIL_citrone_civil1 with ID "34848368290157""
+10:19:12 "HIVE: WRITE: "CHILD:388:41694332312105:""
+10:19:12 "CUSTOM: Selected "317""
+10:19:12 "DEBUG Damage: Added to NeedUpdate=148210c0# 17608: gnt_c185.p3d"
+10:19:12 "PUBLISH: Created GNT_C185C with ID "41694332312105""
+10:19:12 "HIVE: WRITE: "CHILD:388:41716327040107:""
+10:19:12 "CUSTOM: Selected "306""
+10:19:12 "DEBUG Damage: Added to NeedUpdate=14a650c0# 17589: tt650.p3d"
+10:19:12 "HIVE: WRITE: "CHILD:388:32589399630174:""
+10:19:12 "CUSTOM: Selected "309""
+10:19:12 "DEBUG Damage: Added to NeedUpdate=1491e080# 17594: vil_smart_civ.p3d"
+10:19:12 "PUBLISH: Created VIL_smart_civil2 with ID "32589399630174""
+10:19:12 "HIVE: WRITE: "CHILD:388:3623232237798:""
+10:19:12 "CUSTOM: Selected "318""
+10:19:12 "DEBUG Damage: Added to NeedUpdate=14758100# 17610: an2.p3d"
+10:19:12 "PUBLISH: Created AN2_DZ with ID "3623232237798""
+10:19:12 "HIVE: WRITE: "CHILD:388:4428436005428:""
+10:19:12 "CUSTOM: Selected "310""
+10:19:12 "DEBUG Damage: Added to NeedUpdate=14906080# 17596: skodovka_blue.p3d"
+10:19:12 "PUBLISH: Created SkodaBlue with ID "4428436005428""
+10:19:14 "HIVE: WRITE: "CHILD:388:3381644474145:""
+10:19:14 "CUSTOM: Selected "316""
+10:19:14 "DEBUG Damage: Added to NeedUpdate=14777040# 17607: lr.p3d"
+10:19:14 "PUBLISH: Created LandRover_TK_CIV_EP1 with ID "3381644474145""
+10:19:14 "HIVE: WRITE: "CHILD:388:2563145520534:""
+10:19:14 "CUSTOM: Selected "303""
+10:19:14 "DEBUG Damage: Added to NeedUpdate=14b6d0c0# 17582: mi_8amt.p3d"
+10:19:14 "PUBLISH: Created Mi17_Civilian_DZ with ID "2563145520534""
+10:19:14 "HIVE: WRITE: "CHILD:388:355683180922:""
+10:19:14 "CUSTOM: Selected "304""
+10:19:14 "DEBUG Damage: Added to NeedUpdate=14b150c0# 17584: gnt_c185.p3d"
+10:19:14 "PUBLISH: Created GNT_C185U with ID "355683180922""
+10:19:14 "HIVE: WRITE: "CHILD:388:43423322400126:""
+10:19:14 "CUSTOM: Selected "313""
+10:19:14 "DEBUG Damage: Added to NeedUpdate=1486a080# 17601: lr.p3d"
+10:19:14 "PUBLISH: Created LandRover_CZ_EP1 with ID "43423322400126""
+10:19:14 "HIVE: WRITE: "CHILD:388:35325373160111:""
+10:19:14 "CUSTOM: Selected "292""
+10:19:14 "DEBUG Damage: Added to NeedUpdate=14f20100# 17560: mtvr_fuel.p3d"
+10:19:14 "PUBLISH: Created MtvrRefuel_DES_EP1_DZ with ID "35325373160111""
+10:19:14 "DEBUG: spawed loot inside vehicle "5x_22_LR_17_HMR""
+10:19:14 "DEBUG: spawed loot inside vehicle "Skin_Camo1_DZ""
+10:19:14 "DEBUG: spawed loot inside vehicle "TrashTinCan""
+10:19:14 "PUBLISH: Attempt 18c410c0# 17654: ural.p3d"
+10:19:14 "HIVE: WRITE: "CHILD:308:2:Ural_UN_EP1:0:0:[102,[3809.58,3612.55,0]]:[]:[["glass1",0.0866972],["glass2",0.412593],["glass3",0.396646],["glass4",0.794599],["wheel_1_1_steering",0.187613],["wheel_2_1_steering",0.988153],["wheel_1_4_steering",0.481601],["wheel_2_4_steering",0.77927],["wheel_1_3_steering",0.325552],["wheel_2_3_steering",0.698828],["wheel_1_2_steering",0.232318],["wheel_2_2_steering",0.981443],["motor",0.988923],["sklo predni P",0.385886],["sklo predni L",0.638484],["karoserie",0.899257],["palivo",0.682454]]:0.53268:38096361250102:""
+10:19:14 "HIVE: WRITE: "CHILD:388:3284444563139:""
+10:19:14 "CUSTOM: Selected "302""
+10:19:14 "DEBUG Damage: Added to NeedUpdate=14bec100# 17581: vil_fiat_bus.p3d"
+10:19:14 "PUBLISH: Created VIL_ducato_bus with ID "3284444563139""
+10:19:14 "HIVE: WRITE: "CHILD:388:4012536351024:""
+10:19:14 "CUSTOM: Selected "301""
+10:19:14 "DEBUG Damage: Added to NeedUpdate=14c710c0# 17579: uh60m.p3d"
+10:19:14 "PUBLISH: Created UH60M_EP1_DZ with ID "4012536351024""
+10:19:14 "HIVE: WRITE: "CHILD:388:40656315710104:""
+10:19:14 "CUSTOM: Selected "291""
+10:19:14 "DEBUG Damage: Added to NeedUpdate=14fb6080# 17556: vil_smart_civ.p3d"
+10:19:14 "PUBLISH: Created VIL_smart_civil2 with ID "40656315710104""
+10:19:14 "HIVE: WRITE: "CHILD:388:3766635430057:""
+10:19:14 "HIVE: WRITE: "CHILD:388:3126939862083:""
+10:19:14 "CUSTOM: Selected "300""
+10:19:14 "DEBUG Damage: Added to NeedUpdate=14cee080# 17578: vil_smart_civ.p3d"
+10:19:14 "PUBLISH: Created VIL_smart_civil with ID "3126939862083""
+10:19:14 "HIVE: WRITE: "CHILD:388:4454533282031:""
+10:19:14 "CUSTOM: Selected "299""
+10:19:14 "DEBUG Damage: Added to NeedUpdate=14ce90c0# 17576: vil_hilux_civ_o.p3d"
+10:19:14 "PUBLISH: Created VIL_hilux1_civi3 with ID "4454533282031""
+10:19:14 "HIVE: WRITE: "CHILD:388:3251640663094:""
+10:19:14 "CUSTOM: Selected "298""
+10:19:14 "DEBUG Damage: Added to NeedUpdate=14d58100# 17573: vil_passat_civ.p3d"
+10:19:14 "PUBLISH: Created VIL_passat_civil1 with ID "3251640663094""
+10:19:14 "DEBUG: spawed loot inside vehicle "Skin_Rocker3_DZ""
+10:19:14 "DEBUG: spawed loot inside vehicle "5x_22_LR_17_HMR""
+10:19:14 "PUBLISH: Attempt 189e7040# 17658: mi_8mt.p3d"
+10:19:14 "HIVE: WRITE: "CHILD:308:2:Mi17_DZ:0:0:[18,[3358.92,4544.09,0.731222]]:[]:[["glass1",0.791492],["glass2",0.891219],["glass3",0.704801],["glass4",0.791029],["glass5",0.650275],["glass6",0.312887],["NEtrup",0.304448],["motor",0.816918],["elektronika",0.0611125],["mala vrtule",0.364142],["velka vrtule",0.242117],["munice",0.374917],["sklo predni P",0.166526],["sklo predni L",0.740111]]:0.645295:3358945441718:""
+10:19:14 "HIVE: WRITE: "CHILD:388:35137439880106:""
+10:19:14 "CUSTOM: Selected "312""
+10:19:14 "DEBUG Damage: Added to NeedUpdate=148b0100# 17599: vil_fabia.p3d"
+10:19:14 "PUBLISH: Created VIL_fobia_civil4 with ID "35137439880106""
+10:19:14 "HIVE: WRITE: "CHILD:388:35122353790101:""
+10:19:14 "CUSTOM: Selected "311""
+10:19:14 "DEBUG Damage: Added to NeedUpdate=148b3040# 17598: vil_fiat_bus.p3d"
+10:19:14 "PUBLISH: Created VIL_ducato_bus with ID "35122353790101""
+10:19:14 "HIVE: WRITE: "CHILD:388:31452403430163:""
+10:19:14 "CUSTOM: Selected "296""
+10:19:14 "DEBUG Damage: Added to NeedUpdate=14d6b040# 17570: vil_cytryna.p3d"
+10:19:14 "PUBLISH: Created VIL_citrone_civil2 with ID "31452403430163""
+10:19:14 "HIVE: WRITE: "CHILD:388:3292543719154:""
+10:19:14 "CUSTOM: Selected "297""
+10:19:14 "PUBLISH: Created MMT_Civ with ID "3292543719154""
+10:19:15 "HIVE: WRITE: "CHILD:388:39140330841170:""
+10:19:15 "CUSTOM: Selected "293""
+10:19:15 "DEBUG Damage: Added to NeedUpdate=14eaf040# 17562: gaz39371_vodnik.p3d"
+10:19:15 "PUBLISH: Created GAZ_Vodnik with ID "39140330841170""
+10:19:15 "HIVE: WRITE: "CHILD:388:34512358162143:""
+10:19:15 "CUSTOM: Selected "287""
+10:19:15 "DEBUG Damage: Added to NeedUpdate=15102080# 17548: c130j.p3d"
+10:19:15 "PUBLISH: Created C130J_US_EP1 with ID "34512358162143""
+10:19:15 "HIVE: WRITE: "CHILD:388:35537358940127:""
+10:19:15 "CUSTOM: Selected "288""
+10:19:15 "DEBUG Damage: Added to NeedUpdate=150a3040# 17551: vil_cytryna.p3d"
+10:19:15 "PUBLISH: Created VIL_citrone_civil3 with ID "35537358940127""
+10:19:15 "HIVE: WRITE: "CHILD:388:44530351283112:""
+10:19:15 "CUSTOM: Selected "295""
+10:19:15 "DEBUG Damage: Added to NeedUpdate=14e390c0# 17568: m997a2_ambulance.p3d"
+10:19:15 "PUBLISH: Created HMMWV_Ambulance_CZ_DES_EP1 with ID "44530351283112""
+10:19:15 "HIVE: WRITE: "CHILD:388:3571042848046:""
+10:19:15 "CUSTOM: Selected "289""
+10:19:15 "DEBUG Damage: Added to NeedUpdate=15027040# 17552: lada.p3d"
+10:19:15 "PUBLISH: Created Lada2 with ID "3571042848046""
+10:19:15 "HIVE: WRITE: "CHILD:388:3196640560071:""
+10:19:15 "CUSTOM: Selected "294""
+10:19:15 "DEBUG Damage: Added to NeedUpdate=14e750c0# 17565: yac_octavia_civ.p3d"
+10:19:15 "PUBLISH: Created VIL_octavia_civil with ID "3196640560071""
+10:19:15 "DEBUG: spawed loot inside vehicle "Skin_GUE_Commander_DZ""
+10:19:15 "DEBUG: spawed loot inside vehicle "7Rnd_45ACP_1911""
+10:19:15 "DEBUG: spawed loot inside vehicle "ItemBandage""
+10:19:15 "PUBLISH: Attempt 189a4100# 17671: ch_47f.p3d"
+10:19:15 "HIVE: WRITE: "CHILD:308:2:CH_47F_EP1_DZ:0:0:[0,[4180.48,3503.77,0.0942516]]:[]:[["mala vrtule",0.204147],["velka vrtule",0.781745],["NEtrup",0.475458],["motor",0.58455],["elektronika",0.56338],["munice",0.599784],["sklo predni P",0.402564],["sklo predni L",0.0220029],["glass1",0.357711],["glass2",0.460454],["glass3",0.654522],["glass4",0.625537],["glass5",0.908761],["glass6",0.850315]]:0.0041661:418053503810:""
+10:19:15 "[DZAI] DZAI is verifying all tables for banned or invalid classnames..."
+10:19:15 Error in expression < {_errorFound = true;};
+};
+};
+} forEach _x;
+if ((count _removeArray) > 0) then {>
+10:19:15   Error position: <_x;
+if ((count _removeArray) > 0) then {>
+10:19:15   Error Ismeretlen változó a kifejezésben: _x
+10:19:15 File z\addons\dayz_server\DZAI\scripts\verifyTables.sqf, line 48
+10:19:15 "[DZAI] All tables have been verified. No invalid entries found."
+10:19:15 "[DZAI] Table verification completed in 0.0320129 seconds."
+10:19:16 "Utes static trigger configuration loaded."
+10:19:17 "PUBLISH: Attempt 18893040# 17710: tractor_2.p3d"
+10:19:17 "HIVE: WRITE: "CHILD:308:2:tractor:0:0:[9,[4307.82,3138.97,0.160675]]:[]:[["motor",0.798268],["sklo predni P",0.0337006],["sklo predni L",0.451727],["karoserie",0.108701],["palivo",0.606938],["wheel_1_1_steering",0.143422],["wheel_2_1_steering",0.477867],["wheel_1_4_steering",0.968959],["wheel_2_4_steering",0.224622],["wheel_1_3_steering",0.166216],["wheel_2_3_steering",0.730853],["wheel_1_2_steering",0.445189],["wheel_2_2_steering",0.986714],["glass1",0.858451],["glass2",0.665033],["glass3",0.0272932],["glass4",0.968561]]:0.994556:430783139029:""
+10:19:17 "DEBUG: spawed loot inside vehicle "TrashJackDaniels""
+10:19:17 "PUBLISH: Attempt 1886c100# 17712: jetskiyanahui.p3d"
+10:19:17 "HIVE: WRITE: "CHILD:308:2:JetSkiYanahui_Case_Yellow:0:0:[11,[5203.91,5170.37,99.9794]]:[]:[["motor",0.782913]]:0.119573:5203951704100011:""
+10:19:17 "DEBUG: spawed loot inside vehicle "Skin_Functionary1_EP1_DZ""
+10:19:17 "PUBLISH: Attempt 1882f040# 17717: vil_vwt4_bank.p3d"
+10:19:17 "HIVE: WRITE: "CHILD:308:2:VIL_vwt4_banksec:0:0:[43,[3985.91,4080.71,0]]:[]:[["sklo_p",0.269669],["sklo_p1",0.0275243],["sklo_p2",0.375142],["sklo_l1",0.493148],["sklo_l2",0.98744],["sklo_z",0.724004],["levy predni tlumic",0.752259],["levy zadni tlumic",0.748364],["pravy predni tlumic",0.98624],["pravy zadni tlumic",0.944405],["palivo",0.678504],["sklo predni P",0.405051],["sklo predni L",0.759493],["motor",0.954499]]:0.608552:3985940807043:""
+10:19:18 "DEBUG: spawed loot inside vehicle "ItemPainkiller""
+10:19:18 "DEBUG: spawed loot inside vehicle "TrashJackDaniels""
+10:19:18 "PUBLISH: Attempt 187df040# 17729: vil_caro_civ.p3d"
+10:19:18 "HIVE: WRITE: "CHILD:308:2:VIL_karoca_civil:0:0:[164,[2998.04,4480.7,0.00661087]]:[]:[["sklo_p",0.990958],["sklo_p1",0.793354],["sklo_p2",0.217621],["sklo_p3",0.279413],["sklo_l1",0.601263],["sklo_l2",0.209969],["sklo_l3",0.207986],["sklo_z",0.921655],["levy predni tlumic",0.311984],["levy zadni tlumic",0.200105],["pravy predni tlumic",0.0897231],["pravy zadni tlumic",0.822475],["motor",0.342779],["sklo predni P",0.426597],["sklo predni L",0.963926],["karoserie",0.72312],["palivo",0.554444],["",0.643159],["",0.403332],["",0.512049],["",0.326231]]:0.634681:29980448070164:""
+10:19:18 "DEBUG: spawed loot inside vehicle "Skin_TK_INS_Warlord_EP1_DZ""
+10:19:18 "PUBLISH: Attempt 11a990c0# 17737: vil_alfa159_civ.p3d"
+10:19:18 "HIVE: WRITE: "CHILD:308:2:VIL_alfa_civil2:0:0:[2,[4317.08,3720.08,0.0386848]]:[]:[["sklo_p",0.147105],["sklo_p1",0.584176],["sklo_p2",0.993451],["sklo_p3",0.755916],["sklo_l1",0.70471],["sklo_l2",0.892765],["sklo_l3",0.0334898],["sklo_z",0.779473],["levy predni tlumic",0.584988],["levy zadni tlumic",0.290993],["pravy predni tlumic",0.33613],["pravy zadni tlumic",0.479688],["motor",0.853271],["sklo predni P",0.010637],["sklo predni L",0.594964],["karoserie",0.195802],["palivo",0.254601],["",0.828937],["",0.77552],["",0.896199],["",0.833238]]:0.907341:431713720102:""
+10:19:18 "PUBLISH: Attempt 11a390c0# 17741: vil_kia12_civ.p3d"
+10:19:18 "HIVE: WRITE: "CHILD:308:2:VIL_kia_ceeddwa6:0:0:[95,[3156.97,4261.32,0.00276947]]:[]:[["sklo_p",0.256532],["sklo_p1",0.86907],["sklo_p2",0.109287],["sklo_p3",0.919327],["sklo_l1",0.372799],["sklo_l2",0.372712],["sklo_l3",0.258719],["sklo_z",0.480379],["levy predni tlumic",0.652867],["levy zadni tlumic",0.424862],["pravy predni tlumic",0.00827101],["pravy zadni tlumic",0.225017],["motor",0.510014],["sklo predni P",0.972491],["sklo predni L",0.0155724],["karoserie",0.423861],["palivo",0.0301496],["",0.361306],["",0.341777],["",0.945183],["",0.290537]]:0.389336:3157042613095:""
+10:19:18 "DEBUG: Too many at [3553.74,3589.4]"
+10:19:18 "PUBLISH: Created VIL_kia_ceed with ID "3622735015077""
+10:19:18 "HIVE: WRITE: "CHILD:388:43449328620123:""
+10:19:18 "CUSTOM: Selected "326""
+10:19:18 "DEBUG Damage: Added to NeedUpdate=18e77040# 17626: vil_passat_civ.p3d"
+10:19:18 "PUBLISH: Created VIL_passat_civil3 with ID "43449328620123""
+10:19:18 "DEBUG: Too many vehicles at [3553.74,3589.4]"
+10:19:18 "DEBUG: Too many at [3553.74,3589.4]"
+10:19:18 "DEBUG: Too many at [3553.74,3589.4]"
+10:19:18 "DEBUG: Too many at [3553.74,3589.4]"
+10:19:18 "DEBUG: Too many at [3553.74,3589.4]"
+10:19:18 "DEBUG: Too many at [3553.74,3589.4]"
+10:19:19 "DEBUG: Too many vehicles at [3553.74,3589.4]"
+10:19:19 "HIVE: WRITE: "CHILD:388:33930360530117:""
+10:19:19 "CUSTOM: Selected "327""
+10:19:19 "DEBUG Damage: Added to NeedUpdate=18c43040# 17643: vil_fabia.p3d"
+10:19:19 "PUBLISH: Created TT650_Ins with ID "41716327040107""
+10:19:19 "DEBUG: Too many at [3553.74,3589.4]"
+10:19:19 "DEBUG: Too many vehicles at [3553.74,3589.4]"
+10:19:19 "HIVE: WRITE: "CHILD:388:4253436516017:""
+10:19:19 "CUSTOM: Selected "328""
+10:19:19 "DEBUG Damage: Added to NeedUpdate=18c310c0# 17653: csj_gyroc.p3d"
+10:19:19 "PUBLISH: Created CSJ_GyroC with ID "4253436516017""
+10:19:19 "CUSTOM: Selected "290""
+10:19:19 "DEBUG Damage: Added to NeedUpdate=15026080# 17554: csj_gyroc.p3d"
+10:19:19 "PUBLISH: Created CSJ_GyroC with ID "3766635430057""
+10:19:19 "DEBUG: Too many at [3553.74,3589.4]"
+10:19:19 "DEBUG: Too many at [3553.74,3589.4]"
+10:19:19 "DEBUG: Too many at [3553.74,3589.4]"
+10:19:19 "DEBUG: Too many at [3553.74,3589.4]"
+10:19:19 "DEBUG: Too many at [3553.74,3589.4]"
+10:19:19 "DEBUG: Too many at [3553.74,3589.4]"
+10:19:19 "DEBUG: Too many at [3553.74,3589.4]"
+10:19:19 "DEBUG: Too many at [3553.74,3589.4]"
+10:19:19 "DEBUG: Too many vehicles at [3553.74,3589.4]"
+10:19:19 "DEBUG: Too many at [3553.74,3589.4]"
+10:19:19 "DEBUG: Too many at [3553.74,3589.4]"
+10:19:19 "DEBUG: Too many at [3553.74,3589.4]"
+10:19:20 "DEBUG: Too many at [3553.74,3589.4]"
+10:19:20 "HIVE: WRITE: "CHILD:388:38819293341127:""
+10:19:20 "CUSTOM: Selected "329""
+10:19:20 "DEBUG Damage: Added to NeedUpdate=187e7040# 17725: uh1y.p3d"
+10:19:20 "PUBLISH: Created UH1Y_DZ with ID "38819293341127""
+10:19:20 "DEBUG: Too many vehicles at [3553.74,3589.4]"
+10:19:20 "HIVE: WRITE: "CHILD:388:38843415290163:""
+10:19:20 "CUSTOM: Selected "330""
+10:19:20 "DEBUG Damage: Added to NeedUpdate=11aeb040# 17732: vil_kia_civ.p3d"
+10:19:20 "PUBLISH: Created VIL_kia_ceed4 with ID "38843415290163""
+10:19:20 "DEBUG: Too many at [3553.74,3589.4]"
+10:19:20 "DEBUG: Too many at [3553.74,3589.4]"
+10:19:20 "DEBUG: Too many vehicles at [3553.74,3589.4]"
+10:19:20 "HIVE: WRITE: "CHILD:388:40508371621176:""
+10:19:20 "CUSTOM: Selected "331""
+10:19:20 "DEBUG Damage: Added to NeedUpdate=11ad10c0# 17735: uh60m.p3d"
+10:19:20 "PUBLISH: Created UH60M_EP1_DZ with ID "40508371621176""
+10:19:20 "HIVE: WRITE: "CHILD:388:40999386387137:""
+10:19:20 "CUSTOM: Selected "332""
+10:19:20 "DEBUG Damage: Added to NeedUpdate=11ad0100# 17736: an2.p3d"
+10:19:20 "PUBLISH: Created AN2_DZ with ID "40999386387137""
+10:19:20 "HIVE: WRITE: "CHILD:388:3438136312516:""
+10:19:20 "CUSTOM: Selected "334""
+10:19:20 "DEBUG Damage: Added to NeedUpdate=11a98100# 17748: mi_8mt.p3d"
+10:19:20 "PUBLISH: Created Mi17_DZ with ID "3438136312516""
+10:19:20 "HIVE: WRITE: "CHILD:388:4235932533062:""
+10:19:20 "CUSTOM: Selected "333""
+10:19:20 "DEBUG Damage: Added to NeedUpdate=11ad2080# 17739: yac_octavia_civ.p3d"
+10:19:20 "PUBLISH: Created VIL_octavia_civil with ID "4235932533062""
+10:19:20 "HIVE: WRITE: "CHILD:388:2936345262068:""
+10:19:20 "CUSTOM: Selected "335""
+10:19:20 "DEBUG Damage: Added to NeedUpdate=1924e080# 17624: uaz.p3d"
+10:19:20 "PUBLISH: Created UAZ_Unarmed_TK_EP1 with ID "2936345262068""
+10:19:20 "HIVE: WRITE: "CHILD:388:4114432812050:""
+10:19:20 "CUSTOM: Selected "336""
+10:19:20 "DEBUG Damage: Added to NeedUpdate=18e74100# 17627: skodovka_red.p3d"
+10:19:20 "PUBLISH: Created SkodaRed with ID "4114432812050""
+10:19:20 "HIVE: WRITE: "CHILD:388:3830339999182:""
+10:19:20 "CUSTOM: Selected "337""
+10:19:20 "DEBUG Damage: Added to NeedUpdate=18df0100# 17631: uh1y.p3d"
+10:19:20 "PUBLISH: Created UH1Y_DZ with ID "3830339999182""
+10:19:20 "PUBLISH: Created VIL_fobia_civil3 with ID "33930360530117""
+10:19:20 "DEBUG: Too many at [3553.74,3589.4]"
+10:19:21 Warning: z\addons\dayz_communityassets\models\compass.p3d:0 Error while trying to generate ST for points: 863, 853, 852
+10:19:21 "HIVE: WRITE: "CHILD:388:38096361250102:""
+10:19:21 "CUSTOM: Selected "339""
+10:19:21 "DEBUG Damage: Added to NeedUpdate=18c410c0# 17654: ural.p3d"
+10:19:21 "PUBLISH: Created Ural_UN_EP1 with ID "38096361250102""
+10:19:21 "HIVE: WRITE: "CHILD:388:44430318911159:""
+10:19:21 "CUSTOM: Selected "338""
+10:19:21 "DEBUG Damage: Added to NeedUpdate=18c33040# 17644: vil_fabia.p3d"
+10:19:21 "PUBLISH: Created VIL_fobia_civil5 with ID "44430318911159""
+10:19:21 "HIVE: WRITE: "CHILD:388:3358945441718:""
+10:19:21 "CUSTOM: Selected "340""
+10:19:21 "DEBUG Damage: Added to NeedUpdate=189e7040# 17658: mi_8mt.p3d"
+10:19:21 "PUBLISH: Created Mi17_DZ with ID "3358945441718""
+10:19:21 "HIVE: WRITE: "CHILD:388:418053503810:""
+10:19:21 "CUSTOM: Selected "341""
+10:19:21 "DEBUG Damage: Added to NeedUpdate=189a4100# 17671: ch_47f.p3d"
+10:19:21 "PUBLISH: Created CH_47F_EP1_DZ with ID "418053503810""
+10:19:22 "HIVE: WRITE: "CHILD:388:430783139029:""
+10:19:22 "CUSTOM: Selected "342""
+10:19:22 "DEBUG Damage: Added to NeedUpdate=18893040# 17710: tractor_2.p3d"
+10:19:22 "PUBLISH: Created tractor with ID "430783139029""
+10:19:22 "HIVE: WRITE: "CHILD:388:5203951704100011:""
+10:19:22 "CUSTOM: Selected "343""
+10:19:22 "DEBUG Damage: Added to NeedUpdate=1886c100# 17712: jetskiyanahui.p3d"
+10:19:22 "PUBLISH: Created JetSkiYanahui_Case_Yellow with ID "5203951704100011""
+10:19:22 "HIVE: WRITE: "CHILD:388:3985940807043:""
+10:19:22 "CUSTOM: Selected "344""
+10:19:22 "DEBUG Damage: Added to NeedUpdate=1882f040# 17717: vil_vwt4_bank.p3d"
+10:19:22 "PUBLISH: Created VIL_vwt4_banksec with ID "3985940807043""
+10:19:22 "HIVE: WRITE: "CHILD:388:29980448070164:""
+10:19:22 "CUSTOM: Selected "345""
+10:19:22 "DEBUG Damage: Added to NeedUpdate=187df040# 17729: vil_caro_civ.p3d"
+10:19:22 "PUBLISH: Created VIL_karoca_civil with ID "29980448070164""
+10:19:22 "HIVE: WRITE: "CHILD:388:3929441007077:""
+10:19:22 "CUSTOM: Selected "346""
+10:19:22 "DEBUG Damage: Added to NeedUpdate=11ad3040# 17733: lada.p3d"
+10:19:22 "HIVE: WRITE: "CHILD:388:431713720102:""
+10:19:22 "CUSTOM: Selected "347""
+10:19:22 "DEBUG Damage: Added to NeedUpdate=11a990c0# 17737: vil_alfa159_civ.p3d"
+10:19:22 "PUBLISH: Created VIL_alfa_civil2 with ID "431713720102""
+10:19:22 "HIVE: WRITE: "CHILD:388:3157042613095:""
+10:19:22 "CUSTOM: Selected "348""
+10:19:22 "DEBUG Damage: Added to NeedUpdate=11a390c0# 17741: vil_kia12_civ.p3d"
+10:19:22 "PUBLISH: Created VIL_kia_ceeddwa6 with ID "3157042613095""
+10:19:22 "PUBLISH: Created Lada1_TK_CIV_EP1 with ID "3929441007077""
+10:19:44 "DISCONNECT: Conan (5583113) Object: B 1-1-B:1 (Conan) REMOTE, _characterID: 10"
+10:19:44 Client: Remote object 3:8 not found
+10:19:54 "Starting DZAI Scheduler in 15 minutes."
+10:20:15 "DZAI Monitor :: Server Uptime - 0 d 0 hr 1 min 2 sec. Active AI Units - 1."
+10:20:15 "DZAI Monitor :: Static Spawns - 1 active static triggers. 0 groups queued for respawn."
+10:20:15 "DZAI Monitor :: Dynamic Spawns - 0/3 (active/total) dynamic triggers. 0/0 (cur/max) active helicopter patrols."
+10:22:13 "DEBUG FPS  : 46.5116"
+10:22:30 "STARTING LOGIN: ["5583113",B 1-1-A:1 (Conan) REMOTE]"
+10:22:30 "LOGIN ATTEMPT: "5583113" Conan"
+10:22:30 "LOGIN LOADED: B 1-1-A:1 (Conan) REMOTE Type: Survivor1_DZ"
+10:22:31 Server: Object 4:7 not found (message 94)
+10:22:31 "Adding MPHit EH for B 1-1-B:1 (Conan) REMOTE"
+10:22:31 "LOGIN PUBLISHING: B 1-1-B:1 (Conan) REMOTE Type: Survivor2_DZ"
+10:22:32 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+10:22:32   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+10:22:32 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+10:22:32   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+10:22:32 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+10:22:32   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+10:22:32 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+10:22:32   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+10:22:32 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+10:22:32   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+10:22:32   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+10:22:32   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+10:22:32   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+10:22:32   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+10:22:32   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+10:22:32   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+10:22:32   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+10:22:32   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+10:22:32   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+10:22:32   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+10:22:32   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+10:22:32   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+10:22:32   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+10:22:32   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+10:22:32   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+10:22:32   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+10:22:32   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+10:23:17 "DZAI Monitor :: Server Uptime - 0 d 0 hr 4 min 2 sec. Active AI Units - 1."
+10:23:17 "DZAI Monitor :: Static Spawns - 1 active static triggers. 0 groups queued for respawn."
+10:23:17 "DZAI Monitor :: Dynamic Spawns - 0/3 (active/total) dynamic triggers. 0/0 (cur/max) active helicopter patrols."
+10:23:28 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:23:28 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:23:28 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:23:28 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:23:28 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:23:28 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:23:28 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:23:28 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:23:28 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:23:28 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:23:28 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:23:28 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:23:28 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:23:28 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:23:28 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:23:28 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:25:07 "HIVE: WRITE: "CHILD:303:342:[[[],[]],[[],[]],[[],[]]]:""
+10:25:08 "HIVE: WRITE: "CHILD:305:342:[8,[4308.21,3138.82,0.144823]]:0.994556:""
+10:25:08 "HIVE: WRITE: "CHILD:306:342:[["motor",0.798268],["sklo predni P",0.0337006],["sklo predni L",0.451727],["karoserie",0.108701],["palivo",0.606938],["wheel_1_1_steering",0.143422],["wheel_2_1_steering",0.477867],["wheel_1_4_steering",0.968959],["wheel_2_4_steering",0.224622],["wheel_1_3_steering",0.166216],["wheel_2_3_steering",0.730853],["wheel_1_2_steering",0.445189],["wheel_2_2_steering",0.986714],["glass1",0.858451],["glass2",0.665033],["glass3",0.0272932],["glass4",0.968561]]:0:""
+10:25:15 "HIVE: WRITE: "CHILD:306:342:[["motor",0.922081],["sklo predni P",0.0337006],["sklo predni L",0.451727],["karoserie",0.146499],["palivo",0.651572],["wheel_1_1_steering",0.143422],["wheel_2_1_steering",0.477867],["wheel_1_4_steering",0.968959],["wheel_2_4_steering",0.224622],["wheel_1_3_steering",0.166216],["wheel_2_3_steering",0.730853],["wheel_1_2_steering",0.445189],["wheel_2_2_steering",0.986714],["glass1",0.958073],["glass2",0.716357],["glass3",0.0512675],["glass4",0.978511]]:0.00787402:""
+10:25:16 "DEBUG FPS  : 43.8356"
+10:25:20 "HIVE: WRITE: "CHILD:306:342:[["motor",0.922081],["sklo predni P",0.0337006],["sklo predni L",0.451727],["karoserie",0.146499],["palivo",0.651572],["wheel_1_1_steering",0.143422],["wheel_2_1_steering",0.477867],["wheel_1_4_steering",0.968959],["wheel_2_4_steering",0.224622],["wheel_1_3_steering",0.166216],["wheel_2_3_steering",0.730853],["wheel_1_2_steering",0.445189],["wheel_2_2_steering",0.986714],["glass1",0.958073],["glass2",0.716357],["glass3",0.0512675],["glass4",0.978511]]:1:""
+10:25:21 "HIVE: WRITE: "CHILD:305:342:[339,[4306.62,3185.24,0.0101261]]:0.990966:""
+10:25:21 "HIVE: WRITE: "CHILD:306:342:[["motor",0.922081],["sklo predni P",0.0337006],["sklo predni L",0.451727],["karoserie",0.146499],["palivo",0.651572],["wheel_1_1_steering",0.143422],["wheel_2_1_steering",0.477867],["wheel_1_4_steering",0.968959],["wheel_2_4_steering",0.224622],["wheel_1_3_steering",0.166216],["wheel_2_3_steering",0.730853],["wheel_1_2_steering",0.445189],["wheel_2_2_steering",0.986714],["glass1",0.958073],["glass2",0.716357],["glass3",0.0512675],["glass4",0.978511]]:1:""
+10:25:34 "PDEATH: Player Died 5583113"
+10:25:34 Error in expression <select 4;
+_infected =		_this select 5;
+
+_victim removeAllEventHandlers "MPHit";
+>
+10:25:34   Error position: <_victim removeAllEventHandlers "MPHit";
+>
+10:25:34   Error Ismeretlen változó a kifejezésben: _victim
+10:25:34 File z\addons\dayz_server\compile\server_playerDied.sqf, line 10
+10:25:41 "ERROR: server_playerSync: Cannot Sync Player Conan [10]. Position in debug! [1365.09,934.655,114.887]"
+10:25:43 "DISCONNECT: Conan (5583113) Object: 19458080# 17911: man_survivor.p3d REMOTE, _characterID: 10"
+10:25:43 Client: Remote object 4:0 not found
+10:25:43 Client: Remote object 2:12 not found
+10:25:43 Client: Remote object 2:13 not found
+10:25:43 "Second Hand Zombie Initialized: [[4273.75,3208.35,0.173489],Agent 0x11f66080,true]"
+10:25:43 "CLEANUP: DELETE UNCONTROLLED ZOMBIE: z_hunter OF: Agent 0x11f66080"
+10:25:43 "Second Hand Zombie Initialized: [[4306.41,3181.17,0.00165176],Agent 0x11f70080,true]"
+10:25:43 "CLEANUP: DELETE UNCONTROLLED ZOMBIE: z_hunter OF: Agent 0x11f70080"
+10:25:43 "Second Hand Zombie Initialized: [[4284.8,3169.97,0.208385],Agent 0x11f7a080,true]"
+10:25:43 "CLEANUP: DELETE UNCONTROLLED ZOMBIE: z_hunter OF: Agent 0x11f7a080"
+10:25:43 "Second Hand Zombie Initialized: [[4284.8,3169.97,0.208385],Agent 0x11f84080,true]"
+10:25:43 "CLEANUP: DELETE UNCONTROLLED ZOMBIE: z_hunter OF: Agent 0x11f84080"
+10:25:43 "Second Hand Zombie Initialized: [[4331.72,3162.74,-2.47955e-005],Agent 0x11b20080,true]"
+10:25:43 "CLEANUP: DELETE UNCONTROLLED ZOMBIE: z_hunter OF: Agent 0x11b20080"
+10:25:43 "Second Hand Zombie Initialized: [[4244.59,3238.15,-0.434681],Agent 0x11b2a080,true]"
+10:25:43 "CLEANUP: DELETE UNCONTROLLED ZOMBIE: z_hunter OF: Agent 0x11b2a080"
+10:25:43 "Second Hand Zombie Initialized: [[4371.88,3183.13,0],Agent 0x11b34080,true]"
+10:25:43 "CLEANUP: DELETE UNCONTROLLED ZOMBIE: z_priest OF: Agent 0x11b34080"
+10:25:43 "Second Hand Zombie Initialized: [[4357.84,3199.11,0],Agent 0x11b3e080,true]"
+10:25:43 "CLEANUP: DELETE UNCONTROLLED ZOMBIE: z_priest OF: Agent 0x11b3e080"
+10:25:43 "Second Hand Zombie Initialized: [[4456.86,3165.18,0.122409],Agent 0x11bc0080,true]"
+10:25:43 "CLEANUP: DELETE UNCONTROLLED ZOMBIE: z_soldier_pilot OF: Agent 0x11bc0080"
+10:25:43 "Second Hand Zombie Initialized: [[4481.24,3169.61,0],Agent 0x11bb6080,true]"
+10:25:43 "CLEANUP: DELETE UNCONTROLLED ZOMBIE: z_soldier_pilot OF: Agent 0x11bb6080"
+10:25:43 "Second Hand Zombie Initialized: [[4359.87,3267.13,0.315302],Agent 0x11b98080,true]"
+10:25:43 "CLEANUP: DELETE UNCONTROLLED ZOMBIE: z_villager1 OF: Agent 0x11b98080"
+10:25:43 "Second Hand Zombie Initialized: [[4250.63,3283.13,0],Agent 0x11b8e080,true]"
+10:25:43 "CLEANUP: DELETE UNCONTROLLED ZOMBIE: zZombie_Base OF: Agent 0x11b8e080"
+10:25:43 "Second Hand Zombie Initialized: [[4394.03,3168.82,0.00142097],Agent 0x11b66080,true]"
+10:25:43 "CLEANUP: DELETE UNCONTROLLED ZOMBIE: z_villager1 OF: Agent 0x11b66080"
+10:25:43 "Second Hand Zombie Initialized: [[4398.18,3173.13,0.71283],Agent 0x11b5c080,true]"
+10:25:43 "CLEANUP: DELETE UNCONTROLLED ZOMBIE: z_villager1 OF: Agent 0x11b5c080"
+10:25:43 "Second Hand Zombie Initialized: [[4303.02,3208.99,0],Agent 0x11b52080,true]"
+10:25:43 "CLEANUP: DELETE UNCONTROLLED ZOMBIE: z_villager2 OF: Agent 0x11b52080"
+10:25:43 "Second Hand Zombie Initialized: [[4320.74,3221.98,0],Agent 0x11b48080,true]"
+10:25:43 "CLEANUP: DELETE UNCONTROLLED ZOMBIE: z_villager1 OF: Agent 0x11b48080"
+10:25:54 "STARTING LOGIN: ["5583113",B 1-1-A:1 (Conan) REMOTE]"
+10:25:54 "LOGIN ATTEMPT: "5583113" Conan"
+10:25:54 "LOGIN LOADED: B 1-1-A:1 (Conan) REMOTE Type: Survivor1_DZ"
+10:25:55 "Adding MPHit EH for B 1-1-C:1 (Conan) REMOTE"
+10:25:55 "LOGIN PUBLISHING: B 1-1-C:1 (Conan) REMOTE Type: Survivor2_DZ"
+10:25:55 "ERROR: server_playerSync: Cannot Sync Player Conan [11]. Position in debug! [1365.24,941.443,114.885]"
+10:26:17 "DZAI Monitor :: Server Uptime - 0 d 0 hr 7 min 3 sec. Active AI Units - 5."
+10:26:17 "DZAI Monitor :: Static Spawns - 2 active static triggers. 0 groups queued for respawn."
+10:26:17 "DZAI Monitor :: Dynamic Spawns - 1/3 (active/total) dynamic triggers. 0/0 (cur/max) active helicopter patrols."
+10:28:17 "DEBUG FPS  : 45.977"
+10:29:17 "DZAI Monitor :: Server Uptime - 0 d 0 hr 10 min 3 sec. Active AI Units - 5."
+10:29:17 "DZAI Monitor :: Static Spawns - 2 active static triggers. 0 groups queued for respawn."
+10:29:17 "DZAI Monitor :: Dynamic Spawns - 1/3 (active/total) dynamic triggers. 0/0 (cur/max) active helicopter patrols."
+10:30:36 Server: Object 4:170 not found (message 70)
+10:31:18 "DEBUG FPS  : 46.1095"
+10:32:01 "RUNNING EVENT: crash_spawner on [2013,8,14,13,32]"
+10:32:01 "CRASHSPAWNER: Spawning 'Crashed UH-1Y' with loot table 'HeliCrash' NOW! (767.058) at: [3676.2,2916.48]"
+10:32:01 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+10:32:01 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+10:32:01 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+10:32:01 "CRASHSPAWNER: Loot spawn at 'Crashed UH-1Y' with loot table 'HeliCrash'"
+10:32:01 "CRASHSPAWNER: Loot spawn at 'Crashed UH-1Y' with loot table 'HeliCrash'"
+10:32:01 "CRASHSPAWNER: Loot spawn at 'Crashed UH-1Y' with loot table 'HeliCrash'"
+10:32:01 "CRASHSPAWNER: Loot spawn at 'Crashed UH-1Y' with loot table 'HeliCrash'"
+10:32:01 "CRASHSPAWNER: Loot spawn at 'Crashed UH-1Y' with loot table 'HeliCrash'"
+10:32:01 "CRASHSPAWNER: Loot spawn at 'Crashed UH-1Y' with loot table 'HeliCrash'"
+10:32:17 "DZAI Monitor :: Server Uptime - 0 d 0 hr 13 min 3 sec. Active AI Units - 8."
+10:32:17 "DZAI Monitor :: Static Spawns - 3 active static triggers. 0 groups queued for respawn."
+10:32:17 "DZAI Monitor :: Dynamic Spawns - 2/3 (active/total) dynamic triggers. 0/0 (cur/max) active helicopter patrols."
+10:32:47 Cannot load sound 'ca\dubbingradio_e\radio\female01en\default\core\civilian.ogg'
+10:32:47 Cannot load sound 'ca\dubbingradio_e\radio\male05en\default\core\civilian.ogg'
+10:32:48 Cannot load sound 'ca\dubbingradio_e\radio\male05en\default\core\civilian.ogg'
+10:32:48 Cannot load sound 'ca\dubbingradio_e\radio\male05en\default\core\civilian.ogg'
+10:32:48 Cannot load sound 'ca\dubbingradio_e\radio\female01en\default\core\civilian.ogg'
+10:32:48 Cannot load sound 'ca\dubbingradio_e\radio\female01en\default\core\civilian.ogg'
+10:32:58 "HIVE: WRITE: "CHILD:305:311:[101,[3512.22,3537.93,-0.0402069]]:0.274516:""
+10:32:58 "HIVE: WRITE: "CHILD:303:311:[[[],[]],[["ItemBandage","ItemSodaPepsi"],[1,1]],[[],[]]]:""
+10:32:58 "HIVE: WRITE: "CHILD:306:311:[["sklo_p",0.825365],["sklo_p1",0.29296],["sklo_p2",0.874783],["sklo_p3",0.587428],["sklo_l1",0.400825],["sklo_l2",0.281513],["sklo_l3",0.778854],["sklo_z",0.138242],["levy predni tlumic",0.439934],["levy zadni tlumic",0.480238],["pravy predni tlumic",0.935624],["pravy zadni tlumic",0.684593],["palivo",0.8],["sklo predni P",0.368747],["sklo predni L",0.57518],["motor",0.491736]]:0:""
+10:33:01 "HIVE: WRITE: "CHILD:305:311:[118,[3512.1,3537.53,-0.0412369]]:0.274111:""
+10:33:01 "HIVE: WRITE: "CHILD:306:311:[["sklo_p",0.825365],["sklo_p1",0.29296],["sklo_p2",0.874783],["sklo_p3",0.587428],["sklo_l1",0.400825],["sklo_l2",0.281513],["sklo_l3",0.778854],["sklo_z",0.138242],["levy predni tlumic",0.439934],["levy zadni tlumic",0.480238],["pravy predni tlumic",0.935624],["pravy zadni tlumic",0.684593],["palivo",0.8],["sklo predni P",0.368747],["sklo predni L",0.57518],["motor",0.491736]]:0:""
+10:33:01 "HIVE: WRITE: "CHILD:305:311:[118,[3512.1,3537.53,-0.0412369]]:0.274111:""
+10:33:01 "HIVE: WRITE: "CHILD:306:311:[["sklo_p",0.825365],["sklo_p1",0.29296],["sklo_p2",0.874783],["sklo_p3",0.587428],["sklo_l1",0.400825],["sklo_l2",0.281513],["sklo_l3",0.778854],["sklo_z",0.138242],["levy predni tlumic",0.439934],["levy zadni tlumic",0.480238],["pravy predni tlumic",0.935624],["pravy zadni tlumic",0.684593],["palivo",0.8],["sklo predni P",0.368747],["sklo predni L",0.57518],["motor",0.491736]]:0:""
+10:33:01 NAT Negotiation completed
+10:33:03 Cannot load sound 'ca\dubbingradio_e\radio\female01en\default\core\civilian.ogg'
+10:33:03 "HIVE: WRITE: "CHILD:305:311:[137,[3511.77,3537.12,-0.038702]]:0.273679:""
+10:33:03 "HIVE: WRITE: "CHILD:306:311:[["sklo_p",0.825365],["sklo_p1",0.29296],["sklo_p2",0.874783],["sklo_p3",0.587428],["sklo_l1",0.400825],["sklo_l2",0.281513],["sklo_l3",0.778854],["sklo_z",0.138242],["levy predni tlumic",0.439934],["levy zadni tlumic",0.480238],["pravy predni tlumic",0.935624],["pravy zadni tlumic",0.684593],["palivo",0.8],["sklo predni P",0.368747],["sklo predni L",0.57518],["motor",0.491736]]:0:""
+10:33:04 Cannot load sound 'ca\dubbingradio_e\radio\female01en\default\core\civilian.ogg'
+10:33:04 Cannot load sound 'ca\dubbingradio_e\radio\female01en\default\core\civilian.ogg'
+10:33:37 "HIVE: WRITE: "CHILD:306:287:[["telo",0.206809]]:0:""
+10:33:49 "HIVE: WRITE: "CHILD:305:287:[143,[3451.22,3581.51,0.034502]]:0.659974:""
+10:33:49 "HIVE: WRITE: "CHILD:303:287:[[[],[]],[[],[]],[[],[]]]:""
+10:33:49 "HIVE: WRITE: "CHILD:306:287:[["telo",0.206809]]:0.000580404:""
+10:33:51 Cannot load sound 'ca\dubbingradio_e\radio\male05en\default\core\civilian.ogg'
+10:33:52 Cannot load sound 'ca\dubbingradio_e\radio\male05en\default\core\civilian.ogg'
+10:33:52 Cannot load sound 'ca\dubbingradio_e\radio\male05en\default\core\civilian.ogg'
+10:34:06 "HIVE: WRITE: "CHILD:305:287:[143,[3451.22,3581.51,0.034544]]:0.659974:""
+10:34:06 "HIVE: WRITE: "CHILD:306:287:[["telo",0.206809]]:0.000580404:""
+10:34:06 "HIVE: WRITE: "CHILD:305:287:[143,[3451.22,3581.51,0.034544]]:0.659974:""
+10:34:06 "HIVE: WRITE: "CHILD:306:287:[["telo",0.206809]]:0.000580404:""
+10:34:12 Cannot load sound 'ca\dubbingradio_e\radio\male05en\default\core\civilian.ogg'
+10:34:13 Cannot load sound 'ca\dubbingradio_e\radio\male05en\default\core\civilian.ogg'
+10:34:13 Cannot load sound 'ca\dubbingradio_e\radio\male05en\default\core\civilian.ogg'
+10:34:19 Cannot load sound 'ca\dubbingradio_e\radio\female01en\default\core\civilian.ogg'
+10:34:19 "DEBUG FPS  : 46.5116"
+10:34:20 Cannot load sound 'ca\dubbingradio_e\radio\female01en\default\core\civilian.ogg'
+10:34:20 Cannot load sound 'ca\dubbingradio_e\radio\female01en\default\core\civilian.ogg'
+10:34:24 "HIVE: WRITE: "CHILD:306:287:[["telo",0.206809]]:0.000580404:""
+10:35:17 "DZAI Monitor :: Server Uptime - 0 d 0 hr 16 min 3 sec. Active AI Units - 5."
+10:35:17 "DZAI Monitor :: Static Spawns - 2 active static triggers. 0 groups queued for respawn."
+10:35:17 "DZAI Monitor :: Dynamic Spawns - 1/3 (active/total) dynamic triggers. 0/0 (cur/max) active helicopter patrols."
+10:35:31 Cannot load sound 'ca\dubbingradio_e\radio\male05en\default\core\civilian.ogg'
+10:35:33 Cannot load sound 'ca\dubbingradio_e\radio\male05en\default\core\civilian.ogg'
+10:35:33 Cannot load sound 'ca\dubbingradio_e\radio\male05en\default\core\civilian.ogg'
+10:35:43 "HIVE: WRITE: "CHILD:305:287:[101,[4177.48,3582.18,-0.0364494]]:0.647831:""
+10:35:43 "HIVE: WRITE: "CHILD:306:287:[["telo",0.206809]]:0.909449:""
+10:35:43 "HIVE: WRITE: "CHILD:305:287:[101,[4177.48,3582.18,-0.0364494]]:0.647831:""
+10:35:43 "HIVE: WRITE: "CHILD:306:287:[["telo",0.206809]]:0.909449:""
+10:35:49 "HIVE: WRITE: "CHILD:305:287:[101,[4177.49,3582.2,-0.037159]]:0.647648:""
+10:35:49 "HIVE: WRITE: "CHILD:306:287:[["telo",0.206809]]:0.909449:""
+10:35:57 "HIVE: WRITE: "CHILD:305:287:[101,[4177.49,3582.21,-0.0371628]]:0.647395:""
+10:35:57 "HIVE: WRITE: "CHILD:306:287:[["telo",0.206809]]:0.909449:""
+10:37:07 "HIVE: WRITE: "CHILD:305:287:[107,[4178.18,3582.91,0.00365257]]:0.638256:""
+10:37:07 "HIVE: WRITE: "CHILD:306:287:[["telo",0.206809]]:0.909449:""
+10:37:20 "DEBUG FPS  : 46.1095"
+10:37:43 "HIVE: WRITE: "CHILD:305:301:[24,[4012.48,3635.07,-0.0252075]]:0.0272499:""
+10:37:43 "HIVE: WRITE: "CHILD:303:301:[[[],[]],[["WoodenArrow","ItemSodaEmpty"],[1,1]],[[],[]]]:""
+10:37:43 "HIVE: WRITE: "CHILD:306:301:[["glass1",0.495748],["glass2",0.534015],["glass3",0.814295],["glass4",0.629035],["glass5",0.887489],["NEtrup",0.874066],["motor",0.0921762],["elektronika",0.0291285],["mala vrtule",0.395161],["velka vrtule",0.459476],["munice",0.813831],["sklo predni P",0.674181],["sklo predni L",0.100511],["glass6",0.578797]]:0:""
+10:38:17 "DZAI Monitor :: Server Uptime - 0 d 0 hr 19 min 3 sec. Active AI Units - 7."
+10:38:17 "DZAI Monitor :: Static Spawns - 3 active static triggers. 0 groups queued for respawn."
+10:38:17 "DZAI Monitor :: Dynamic Spawns - 2/3 (active/total) dynamic triggers. 0/0 (cur/max) active helicopter patrols."
+10:38:55 Cannot load sound 'ca\dubbingradio_e\radio\male04en\default\core\civilian.ogg'
+10:38:56 Cannot load sound 'ca\dubbingradio_e\radio\male04en\default\core\civilian.ogg'
+10:38:56 Cannot load sound 'ca\dubbingradio_e\radio\male04en\default\core\civilian.ogg'
+10:40:21 "DEBUG FPS  : 44.0771"
+10:40:27 "HIVE: WRITE: "CHILD:306:301:[["glass1",1],["glass2",1],["glass3",1],["glass4",1],["glass5",0.887489],["NEtrup",0.874066],["motor",1],["elektronika",0.0291285],["mala vrtule",0.411956],["velka vrtule",1],["munice",1],["sklo predni P",0.674181],["sklo predni L",0.100511],["glass6",0.578797]]:0.0472441:""
+10:40:37 "HIVE: WRITE: "CHILD:305:301:[30,[3530.22,3572.36,0.000686646]]:0:""
+10:40:37 "HIVE: WRITE: "CHILD:306:301:[["glass1",1],["glass2",1],["glass3",1],["glass4",1],["glass5",0.887489],["NEtrup",0.874066],["motor",1],["elektronika",0.0291285],["mala vrtule",0.411956],["velka vrtule",1],["munice",1],["sklo predni P",0.674181],["sklo predni L",0.100511],["glass6",0.578797]]:0.0472441:""
+10:40:44 "HIVE: WRITE: "CHILD:306:311:[["sklo_p",0.825365],["sklo_p1",0.29296],["sklo_p2",0.874783],["sklo_p3",0.587428],["sklo_l1",0.400825],["sklo_l2",0.281513],["sklo_l3",0.778854],["sklo_z",0.138242],["levy predni tlumic",0.439934],["levy zadni tlumic",0.480238],["pravy predni tlumic",0.935624],["pravy zadni tlumic",0.684593],["palivo",0.8],["sklo predni P",0.368747],["sklo predni L",0.57518],["motor",0.491736]]:0.00393701:""
+10:41:17 "DZAI Monitor :: Server Uptime - 0 d 0 hr 22 min 3 sec. Active AI Units - 7."
+10:41:17 "DZAI Monitor :: Static Spawns - 3 active static triggers. 0 groups queued for respawn."
+10:41:17 "DZAI Monitor :: Dynamic Spawns - 2/3 (active/total) dynamic triggers. 0/0 (cur/max) active helicopter patrols."
+10:41:43 "HIVE: WRITE: "CHILD:303:334:[[[],[]],[[],[]],[[],[]]]:""
+10:41:48 "HIVE: WRITE: "CHILD:305:334:[16,[3438.05,3631.13,-0.0440521]]:0.666199:""
+10:41:48 "HIVE: WRITE: "CHILD:306:334:[["glass1",0.448343],["glass2",0.319662],["glass3",0.735351],["glass4",0.928806],["glass5",0.865699],["glass6",0.252427],["NEtrup",0.0300127],["motor",0.065529],["elektronika",0.144661],["mala vrtule",0.175004],["velka vrtule",0.413624],["munice",0.595167],["sklo predni P",0.0104527],["sklo predni L",0.703358]]:0:""
+10:41:57 Cannot load sound 'ca\dubbingradio_e\radio\male04en\default\core\civilian.ogg'
+10:41:57 Cannot load sound 'ca\dubbingradio_e\radio\male04en\default\core\civilian.ogg'
+10:41:57 Cannot load sound 'ca\dubbingradio_e\radio\male04en\default\core\civilian.ogg'
+10:42:45 "HIVE: WRITE: "CHILD:306:334:[["glass1",0.448343],["glass2",0.319662],["glass3",0.735351],["glass4",0.928806],["glass5",0.865699],["glass6",0.252427],["NEtrup",0.0300127],["motor",0.065529],["elektronika",0.144661],["mala vrtule",0.175004],["velka vrtule",0.413624],["munice",0.595167],["sklo predni P",0.0104527],["sklo predni L",0.703358]]:1:""
+10:42:45 "HIVE: WRITE: "CHILD:306:334:[["glass1",0.448343],["glass2",0.319662],["glass3",0.735351],["glass4",0.928806],["glass5",0.865699],["glass6",0.252427],["NEtrup",0.0300127],["motor",0.065529],["elektronika",0.144661],["mala vrtule",0.175004],["velka vrtule",0.413624],["munice",0.595167],["sklo predni P",0.0104527],["sklo predni L",0.703358]]:1:""
+10:42:45 Client: Object 4:531 (type Type_70) not found.
+10:42:45 Client: Object 4:531 (type Type_70) not found.
+10:42:45 Client: Object 4:531 (type Type_70) not found.
+10:42:45 Client: Object 4:531 (type Type_70) not found.
+10:42:45 class HitPoints::Hitglass not found in Land_Mil_House_dam
+10:42:45 Error: Hitpoint Hitglass not found in the model ca\structures\mil\mil_house_dam.p3d (original model ca\structures\mil\mil_house.p3d)
+10:42:45 Client: Object 4:531 (type Type_70) not found.
+10:42:45 Client: Object 4:531 (type Type_70) not found.
+10:42:46 Client: Object 4:531 (type Type_70) not found.
+10:42:46 Client: Object 4:531 (type Type_70) not found.
+10:42:46 Client: Object 4:531 (type Type_70) not found.
+10:42:46 Client: Object 4:531 (type Type_70) not found.
+10:42:46 Client: Object 4:531 (type Type_70) not found.
+10:42:46 Client: Object 4:531 (type Type_70) not found.
+10:42:46 Client: Object 4:531 (type Type_70) not found.
+10:42:46 Client: Object 4:531 (type Type_70) not found.
+10:42:46 Client: Object 4:531 (type Type_70) not found.
+10:42:46 Client: Object 4:531 (type Type_70) not found.
+10:42:46 Client: Object 4:531 (type Type_70) not found.
+10:42:46 Client: Object 4:531 (type Type_70) not found.
+10:42:46 Client: Object 4:531 (type Type_70) not found.
+10:42:46 Client: Object 4:531 (type Type_70) not found.
+10:42:46 Client: Object 4:531 (type Type_70) not found.
+10:42:46 Client: Object 4:531 (type Type_70) not found.
+10:42:46 Client: Object 4:531 (type Type_70) not found.
+10:42:46 Client: Object 4:531 (type Type_70) not found.
+10:42:47 Client: Object 4:531 (type Type_70) not found.
+10:42:47 Client: Object 4:531 (type Type_70) not found.
+10:42:47 Client: Object 4:531 (type Type_70) not found.
+10:42:47 Client: Object 4:531 (type Type_70) not found.
+10:42:47 Client: Object 4:531 (type Type_70) not found.
+10:42:47 Client: Object 4:531 (type Type_70) not found.
+10:42:47 Client: Object 4:531 (type Type_70) not found.
+10:42:47 Client: Object 4:531 (type Type_70) not found.
+10:42:47 Client: Object 4:531 (type Type_70) not found.
+10:42:47 Client: Object 4:531 (type Type_70) not found.
+10:42:47 Client: Object 4:531 (type Type_70) not found.
+10:42:47 Client: Object 4:531 (type Type_70) not found.
+10:42:47 Client: Object 4:531 (type Type_70) not found.
+10:42:47 Client: Object 4:531 (type Type_70) not found.
+10:42:47 Client: Object 4:531 (type Type_70) not found.
+10:42:47 Client: Object 4:531 (type Type_70) not found.
+10:42:47 Client: Object 4:531 (type Type_70) not found.
+10:42:47 Client: Object 4:531 (type Type_70) not found.
+10:42:47 Client: Object 4:531 (type Type_70) not found.
+10:42:47 Client: Object 4:531 (type Type_70) not found.
+10:42:48 Client: Object 4:531 (type Type_70) not found.
+10:42:48 Client: Object 4:531 (type Type_70) not found.
+10:42:48 Client: Object 4:531 (type Type_70) not found.
+10:42:48 Client: Object 4:531 (type Type_70) not found.
+10:42:48 Client: Object 4:531 (type Type_70) not found.
+10:42:48 Client: Object 4:531 (type Type_70) not found.
+10:42:48 Client: Object 4:531 (type Type_70) not found.
+10:42:48 Client: Object 4:531 (type Type_70) not found.
+10:42:48 Client: Object 4:531 (type Type_70) not found.
+10:42:48 Client: Object 4:531 (type Type_70) not found.
+10:42:48 Client: Object 4:531 (type Type_70) not found.
+10:42:48 Client: Object 4:531 (type Type_70) not found.
+10:42:48 Client: Object 4:531 (type Type_70) not found.
+10:42:48 Error in expression <oke;
+deleteVehicle _fire;
+deleteVehicle _shards;
+deleteVehicle _dirt;
+
+_v setvel>
+10:42:48   Error position: <_shards;
+deleteVehicle _dirt;
+
+_v setvel>
+10:42:48   Error Ismeretlen változó a kifejezésben: _shards
+10:42:48 File ca\Data\ParticleEffects\SCRIPTS\destruction\AirDestructionStage2.sqf, line 71
+10:42:48 Client: Object 4:531 (type Type_70) not found.
+10:42:48 Client: Object 4:531 (type Type_70) not found.
+10:42:48 Client: Object 4:531 (type Type_70) not found.
+10:42:48 Client: Object 4:531 (type Type_70) not found.
+10:42:48 Client: Object 4:531 (type Type_70) not found.
+10:42:48 Client: Object 4:531 (type Type_70) not found.
+10:42:48 Client: Object 4:531 (type Type_70) not found.
+10:42:48 Client: Object 4:531 (type Type_70) not found.
+10:42:48 Client: Object 4:531 (type Type_70) not found.
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:49 "HIVE: WRITE: "CHILD:305:334:[120,[3693.3,3530.18,7.61617]]:0.660601:""
+10:42:49 "HIVE: WRITE: "CHILD:306:334:[["glass1",0.448343],["glass2",0.319662],["glass3",0.735351],["glass4",0.928806],["glass5",0.865699],["glass6",0.252427],["NEtrup",0.0300127],["motor",0.065529],["elektronika",0.144661],["mala vrtule",0.175004],["velka vrtule",0.413624],["munice",0.595167],["sklo predni P",0.0104527],["sklo predni L",0.703358]]:1:""
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:49 Client: Object 4:531 (type Type_70) not found.
+10:42:50 Client: Object 4:531 (type Type_70) not found.
+10:42:50 Client: Object 4:531 (type Type_70) not found.
+10:42:50 Client: Object 4:531 (type Type_70) not found.
+10:42:50 Client: Object 4:531 (type Type_70) not found.
+10:42:50 Client: Object 4:531 (type Type_70) not found.
+10:42:50 "PDEATH: Player Died 5583113"
+10:42:50 Error in expression <select 4;
+_infected =		_this select 5;
+
+_victim removeAllEventHandlers "MPHit";
+>
+10:42:50   Error position: <_victim removeAllEventHandlers "MPHit";
+>
+10:42:50   Error Ismeretlen változó a kifejezésben: _victim
+10:42:50 File z\addons\dayz_server\compile\server_playerDied.sqf, line 10
+10:42:50 Client: Object 4:531 (type Type_70) not found.
+10:42:50 Client: Object 4:531 (type Type_70) not found.
+10:42:50 Client: Object 4:531 (type Type_70) not found.
+10:42:50 Client: Object 4:531 (type Type_70) not found.
+10:42:50 Client: Object 4:531 (type Type_70) not found.
+10:42:50 Client: Object 4:531 (type Type_70) not found.
+10:42:50 Client: Object 4:531 (type Type_70) not found.
+10:42:50 Client: Object 4:531 (type Type_70) not found.
+10:42:50 Client: Object 4:531 (type Type_70) not found.
+10:42:50 Client: Object 4:531 (type Type_70) not found.
+10:42:50 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:51 Client: Object 4:531 (type Type_70) not found.
+10:42:52 Client: Object 4:531 (type Type_70) not found.
+10:42:52 Client: Object 4:531 (type Type_70) not found.
+10:42:52 Client: Object 4:531 (type Type_70) not found.
+10:42:52 Client: Object 4:531 (type Type_70) not found.
+10:42:52 Client: Object 4:531 (type Type_70) not found.
+10:42:52 Client: Object 4:531 (type Type_70) not found.
+10:42:52 Client: Object 4:531 (type Type_70) not found.
+10:42:52 Client: Object 4:531 (type Type_70) not found.
+10:42:52 Client: Object 4:531 (type Type_70) not found.
+10:42:52 Client: Object 4:531 (type Type_70) not found.
+10:42:52 Client: Object 4:531 (type Type_70) not found.
+10:42:52 Client: Object 4:531 (type Type_70) not found.
+10:42:52 Client: Object 4:531 (type Type_70) not found.
+10:42:52 Client: Object 4:531 (type Type_70) not found.
+10:42:52 Client: Object 4:531 (type Type_70) not found.
+10:42:52 Client: Object 4:531 (type Type_70) not found.
+10:42:52 Client: Object 4:531 (type Type_70) not found.
+10:42:52 Client: Object 4:531 (type Type_70) not found.
+10:42:52 Client: Object 4:531 (type Type_70) not found.
+10:42:52 Client: Object 4:531 (type Type_70) not found.
+10:42:52 Client: Object 4:531 (type Type_70) not found.
+10:42:52 Client: Object 4:531 (type Type_70) not found.
+10:42:53 Client: Object 4:531 (type Type_70) not found.
+10:42:53 Client: Object 4:531 (type Type_70) not found.
+10:42:53 Client: Object 4:531 (type Type_70) not found.
+10:42:53 Client: Object 4:531 (type Type_70) not found.
+10:42:53 Client: Object 4:531 (type Type_70) not found.
+10:42:53 Client: Object 4:531 (type Type_70) not found.
+10:42:53 Client: Object 4:531 (type Type_70) not found.
+10:42:54 Client: Object 4:531 (type Type_70) not found.
+10:42:54 Client: Object 4:531 (type Type_70) not found.
+10:42:54 Client: Object 4:531 (type Type_70) not found.
+10:42:54 Client: Object 4:531 (type Type_70) not found.
+10:42:54 Client: Object 4:531 (type Type_70) not found.
+10:42:54 Client: Object 4:531 (type Type_70) not found.
+10:42:54 Client: Object 4:531 (type Type_70) not found.
+10:42:54 Client: Object 4:531 (type Type_70) not found.
+10:42:54 Client: Object 4:531 (type Type_70) not found.
+10:42:54 Client: Object 4:531 (type Type_70) not found.
+10:42:54 Client: Object 4:531 (type Type_70) not found.
+10:42:54 Client: Object 4:531 (type Type_70) not found.
+10:42:54 Client: Object 4:531 (type Type_70) not found.
+10:42:54 Client: Object 4:531 (type Type_70) not found.
+10:42:54 Client: Object 4:531 (type Type_70) not found.
+10:42:54 Client: Object 4:531 (type Type_70) not found.
+10:42:54 Client: Object 4:531 (type Type_70) not found.
+10:42:54 Client: Object 4:531 (type Type_70) not found.
+10:42:55 Client: Object 4:531 (type Type_70) not found.
+10:42:55 Client: Object 4:531 (type Type_70) not found.
+10:42:55 Client: Object 4:531 (type Type_69) not found.
+10:42:55 Client: Object 4:531 (type Type_70) not found.
+10:42:55 Client: Object 4:531 (type Type_70) not found.
+10:42:55 Client: Object 4:531 (type Type_70) not found.
+10:42:55 Client: Object 4:531 (type Type_70) not found.
+10:42:56 Client: Object 4:531 (type Type_70) not found.
+10:42:57 Client: Object 4:531 (type Type_70) not found.
+10:42:58 Client: Object 4:531 (type Type_70) not found.
+10:42:58 Client: Object 4:531 (type Type_70) not found.
+10:42:59 Client: Object 4:531 (type Type_70) not found.
+10:42:59 Client: Object 4:531 (type Type_70) not found.
+10:43:00 Client: Object 4:531 (type Type_69) not found.
+10:43:01 Client: Object 4:531 (type Type_70) not found.
+10:43:03 Client: Object 4:531 (type Type_70) not found.
+10:43:05 Client: Object 4:531 (type Type_69) not found.
+10:43:05 Client: Object 4:531 (type Type_70) not found.
+10:43:07 Client: Object 4:531 (type Type_70) not found.
+10:43:09 Client: Object 4:531 (type Type_70) not found.
+10:43:10 Client: Object 4:531 (type Type_69) not found.
+10:43:11 Client: Object 4:531 (type Type_70) not found.
+10:43:13 Client: Object 4:531 (type Type_70) not found.
+10:43:15 Client: Object 4:531 (type Type_69) not found.
+10:43:15 Client: Object 4:531 (type Type_70) not found.
+10:43:17 Client: Object 4:531 (type Type_70) not found.
+10:43:19 Client: Object 4:531 (type Type_70) not found.
+10:43:20 Client: Object 4:531 (type Type_69) not found.
+10:43:21 Client: Object 4:531 (type Type_70) not found.
+10:43:22 "DEBUG FPS  : 46.5116"
+10:43:23 Client: Object 4:531 (type Type_70) not found.
+10:43:25 Client: Object 4:531 (type Type_69) not found.
+10:43:25 Client: Object 4:531 (type Type_70) not found.
+10:43:27 Client: Object 4:531 (type Type_70) not found.
+10:43:29 Client: Object 4:531 (type Type_70) not found.
+10:43:30 Client: Object 4:531 (type Type_69) not found.
+10:43:31 Client: Object 4:531 (type Type_70) not found.
+10:43:33 Client: Object 4:531 (type Type_70) not found.
+10:43:35 Client: Object 4:531 (type Type_69) not found.
+10:43:35 Client: Object 4:531 (type Type_70) not found.
+10:43:37 Client: Object 4:531 (type Type_70) not found.
+10:43:39 Client: Object 4:531 (type Type_70) not found.
+10:43:40 Client: Object 4:531 (type Type_69) not found.
+10:43:41 Client: Object 4:531 (type Type_70) not found.
+10:43:43 Client: Object 4:531 (type Type_70) not found.
+10:43:45 Client: Object 4:531 (type Type_69) not found.
+10:43:45 Client: Object 4:531 (type Type_70) not found.
+10:43:47 Client: Object 4:531 (type Type_70) not found.
+10:43:49 Client: Object 4:531 (type Type_70) not found.
+10:43:50 Client: Object 4:531 (type Type_69) not found.
+10:43:51 Client: Object 4:531 (type Type_70) not found.
+10:43:53 Client: Object 4:531 (type Type_70) not found.
+10:43:55 Client: Object 4:531 (type Type_69) not found.
+10:43:55 Client: Object 4:531 (type Type_70) not found.
+10:43:57 Client: Object 4:531 (type Type_70) not found.
+10:43:59 Client: Object 4:531 (type Type_70) not found.
+10:44:00 Client: Object 4:531 (type Type_69) not found.
+10:44:01 Client: Object 4:531 (type Type_70) not found.
+10:44:03 Client: Object 4:531 (type Type_70) not found.
+10:44:05 Client: Object 4:531 (type Type_69) not found.
+10:44:05 Client: Object 4:531 (type Type_70) not found.
+10:44:07 Client: Object 4:531 (type Type_70) not found.
+10:44:09 Client: Object 4:531 (type Type_70) not found.
+10:44:10 Client: Object 4:531 (type Type_69) not found.
+10:44:11 Client: Object 4:531 (type Type_70) not found.
+10:44:13 Client: Object 4:531 (type Type_70) not found.
+10:44:15 Client: Object 4:531 (type Type_69) not found.
+10:44:15 Client: Object 4:531 (type Type_70) not found.
+10:44:17 Client: Object 4:531 (type Type_70) not found.
+10:44:18 "DZAI Monitor :: Server Uptime - 0 d 0 hr 25 min 3 sec. Active AI Units - 6."
+10:44:18 "DZAI Monitor :: Static Spawns - 2 active static triggers. 0 groups queued for respawn."
+10:44:18 "DZAI Monitor :: Dynamic Spawns - 2/3 (active/total) dynamic triggers. 0/0 (cur/max) active helicopter patrols."
+10:44:19 Client: Object 4:531 (type Type_70) not found.
+10:44:20 Client: Object 4:531 (type Type_69) not found.
+10:44:21 Client: Object 4:531 (type Type_70) not found.
+10:44:21 "ERROR: server_playerSync: Cannot Sync Player Conan [11]. Position in debug! [1365.09,934.655,114.887]"
+10:44:22 "DISCONNECT: Conan (5583113) Object: 11e7c080# 18055: man_survivor.p3d REMOTE, _characterID: 11"
+10:44:22 Client: Remote object 4:531 not found
+10:44:22 Client: Remote object 2:500 not found
+10:44:22 Client: Remote object 2:501 not found
+10:44:37 Warning: Cleanup player - person 4:564 not found
+10:44:45 Bad lock radius 86.8879
+10:44:45 Bad lock radius 144.813

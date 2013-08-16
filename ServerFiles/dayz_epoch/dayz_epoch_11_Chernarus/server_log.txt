@@ -1,0 +1,118 @@
+﻿10:56:09 BattlEye server updated to version: 164
+10:56:09 BattlEye Server: Initialized (v1.164)
+10:56:09 Játék létrehozva.
+10:57:32 Conan módosított adatfájlt használ
+10:57:32 BattlEye Server: Player #0 Conan (127.0.0.1:2316) connected
+10:57:32 Conan csatlakozik.
+10:57:32 DayZ Epoch Chernarus küldetés beolvasása a játékbankból.
+10:57:38 Conan lekapcsolódott.
+10:57:38 BattlEye Server: Player #0 Conan disconnected
+10:57:38 Az összes játékos kilépett, várakozás új játékosok belépésére.
+10:57:53 BattlEye Server: Update successfully completed. Restarting...
+10:57:53 BattlEye Server: Initialized (v1.174)
+10:59:03 Conan módosított adatfájlt használ
+10:59:03 BattlEye Server: Player #0 Conan (192.168.2.2:2316) connected
+10:59:03 Conan csatlakozik.
+10:59:03 DayZ Epoch Chernarus küldetés beolvasása a játékbankból.
+10:59:04 Conan belépett (id=5583113)
+10:59:04 BattlEye Server: Player #0 Conan - GUID: 433b89366ac3896b8872f9f54c40407c (unverified)
+10:59:07 Szerepek kiosztva.
+10:59:07 Küldetés beolvasása…
+10:59:42 Küldetés beolvasva.
+11:00:48 A játék elkezdődött.
+12:21:49 Conan lekapcsolódott.
+12:21:49 BattlEye Server: Player #0 Conan disconnected
+12:33:33 BattlEye Server: Initialized (v1.174)
+12:33:34 Játék létrehozva.
+17:19:30 BattlEye Server: Initialized (v1.174)
+17:19:30 Játék létrehozva.
+17:27:43 Conan módosított adatfájlt használ
+17:27:43 BattlEye Server: Player #0 Conan (192.168.2.2:2316) connected
+17:27:43 Conan csatlakozik.
+17:27:43 DayZ Epoch Chernarus küldetés beolvasása a játékbankból.
+17:27:44 Conan belépett (id=5583113)
+17:27:46 BattlEye Server: Player #0 Conan - GUID: 433b89366ac3896b8872f9f54c40407c (unverified)
+17:27:48 Szerepek kiosztva.
+17:27:48 Küldetés beolvasása…
+17:28:21 Küldetés beolvasva.
+17:29:23 A játék elkezdődött.
+18:40:56 BattlEye Server: Initialized (v1.174)
+18:40:56 Játék létrehozva.
+18:46:39 BattlEye Server: Initialized (v1.174)
+18:46:39 Játék létrehozva.
+18:47:06 BattlEye Server: Initialized (v1.174)
+18:47:06 Játék létrehozva.
+19:44:00 BattlEye Server: Initialized (v1.174)
+19:44:01 Játék létrehozva.
+19:46:09 Conan módosított adatfájlt használ
+19:46:09 BattlEye Server: Player #0 Conan (192.168.2.2:2316) connected
+19:46:09 Conan csatlakozik.
+19:46:10 DayZ Epoch Chernarus küldetés beolvasása a játékbankból.
+19:46:11 Conan belépett (id=5583113)
+19:46:12 BattlEye Server: Player #0 Conan - GUID: 433b89366ac3896b8872f9f54c40407c (unverified)
+19:46:12 Conan lekapcsolódott.
+19:46:12 BattlEye Server: Player #0 Conan disconnected
+19:46:12 Az összes játékos kilépett, várakozás új játékosok belépésére.
+19:46:40 Conan módosított adatfájlt használ
+19:46:40 BattlEye Server: Player #0 Conan (192.168.2.2:2316) connected
+19:46:40 Conan csatlakozik.
+19:46:40 DayZ Epoch Chernarus küldetés beolvasása a játékbankból.
+19:46:42 Conan belépett (id=5583113)
+19:46:42 BattlEye Server: Player #0 Conan - GUID: 433b89366ac3896b8872f9f54c40407c (unverified)
+19:46:42 Conan lekapcsolódott.
+19:46:42 BattlEye Server: Player #0 Conan disconnected
+19:46:42 Az összes játékos kilépett, várakozás új játékosok belépésére.
+19:51:46 Conan módosított adatfájlt használ
+19:51:46 BattlEye Server: Player #0 Conan (192.168.2.2:2316) connected
+19:51:47 Conan csatlakozik.
+19:51:47 DayZ Epoch Chernarus küldetés beolvasása a játékbankból.
+19:51:48 Conan belépett (id=5583113)
+19:51:48 BattlEye Server: Player #0 Conan - GUID: 433b89366ac3896b8872f9f54c40407c (unverified)
+19:51:49 Conan lekapcsolódott.
+19:51:49 BattlEye Server: Player #0 Conan disconnected
+19:51:49 Az összes játékos kilépett, várakozás új játékosok belépésére.
+19:52:31 Conan módosított adatfájlt használ
+19:52:31 BattlEye Server: Player #0 Conan (192.168.2.2:2316) connected
+19:52:31 Conan csatlakozik.
+19:52:31 DayZ Epoch Chernarus küldetés beolvasása a játékbankból.
+19:52:32 Conan belépett (id=5583113)
+19:52:33 BattlEye Server: Player #0 Conan - GUID: 433b89366ac3896b8872f9f54c40407c (unverified)
+19:52:33 Player Conan kicked off by BattlEye: Invalid GUID
+19:52:33 Conan lekapcsolódott.
+19:52:33 Az összes játékos kilépett, várakozás új játékosok belépésére.
+19:58:43 Conan módosított adatfájlt használ
+19:58:43 BattlEye Server: Player #0 Conan (192.168.2.2:2316) connected
+19:58:43 Conan csatlakozik.
+19:58:43 DayZ Epoch Chernarus küldetés beolvasása a játékbankból.
+19:58:44 Conan belépett (id=5583113)
+19:58:45 BattlEye Server: Player #0 Conan - GUID: 433b89366ac3896b8872f9f54c40407c (unverified)
+19:58:45 Conan lekapcsolódott.
+19:58:45 BattlEye Server: Player #0 Conan disconnected
+19:58:45 Az összes játékos kilépett, várakozás új játékosok belépésére.
+19:59:05 Conan módosított adatfájlt használ
+19:59:05 BattlEye Server: Player #0 Conan (192.168.2.2:2316) connected
+19:59:05 Conan csatlakozik.
+19:59:05 DayZ Epoch Chernarus küldetés beolvasása a játékbankból.
+19:59:07 Conan belépett (id=5583113)
+19:59:07 BattlEye Server: Player #0 Conan - GUID: 433b89366ac3896b8872f9f54c40407c (unverified)
+19:59:07 Conan lekapcsolódott.
+19:59:07 BattlEye Server: Player #0 Conan disconnected
+19:59:07 Az összes játékos kilépett, várakozás új játékosok belépésére.
+19:59:21 Conan módosított adatfájlt használ
+19:59:21 BattlEye Server: Player #0 Conan (192.168.2.2:2316) connected
+19:59:21 Conan csatlakozik.
+19:59:21 DayZ Epoch Chernarus küldetés beolvasása a játékbankból.
+19:59:23 Conan belépett (id=5583113)
+19:59:23 BattlEye Server: Player #0 Conan - GUID: 433b89366ac3896b8872f9f54c40407c (unverified)
+19:59:23 Player Conan kicked off by BattlEye: Invalid GUID
+19:59:23 Conan lekapcsolódott.
+19:59:24 Az összes játékos kilépett, várakozás új játékosok belépésére.
+20:01:32 Conan módosított adatfájlt használ
+20:01:32 BattlEye Server: Player #0 Conan (192.168.2.2:2316) connected
+20:01:32 Conan csatlakozik.
+20:01:32 DayZ Epoch Chernarus küldetés beolvasása a játékbankból.
+20:01:34 Conan belépett (id=5583113)
+20:01:34 BattlEye Server: Player #0 Conan - GUID: 433b89366ac3896b8872f9f54c40407c (unverified)
+20:01:34 Conan lekapcsolódott.
+20:01:34 BattlEye Server: Player #0 Conan disconnected
+20:01:34 Az összes játékos kilépett, várakozás új játékosok belépésére.

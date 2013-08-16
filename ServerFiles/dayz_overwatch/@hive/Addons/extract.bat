@@ -1,0 +1,1 @@
+cpbo.exe -e dayz_server.pbo
